@@ -4,16 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": "20.x"
-  },
   "dependencies": {
     "bcryptjs": "^3.0.3",
+    "better-sqlite3": "^12.9.0",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
@@ -21,7 +20,6 @@
     "jsonwebtoken": "^9.0.3",
     "pdf-parse": "^2.4.5",
     "pdfreader": "^3.0.8",
-    "sqlite": "^5.1.1",
-    "sqlite3": "^6.0.1"
+    "sqlite": "^5.1.1"
   }
 }
