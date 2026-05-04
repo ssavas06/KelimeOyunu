@@ -1,9 +1,9 @@
 const express = require("express");
-const sqlite3 = require("sqlite3").verbose();
+const Database = require("better-sqlite3");
 const path = require("path");
 
 const app = express();
-const db = new sqlite3.Database("database.sqlite");
+const db = new Database("database.sqlite");
 
 app.use(express.json());
 app.use(express.static("public"));
