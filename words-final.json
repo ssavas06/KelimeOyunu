@@ -1,0 +1,5052 @@
+[
+  {
+    "english": "abroad",
+    "turkish": "yurt dışı",
+    "level": 1
+  },
+  {
+    "english": "accept",
+    "turkish": "kabul etmek",
+    "level": 1
+  },
+  {
+    "english": "accident",
+    "turkish": "kaza",
+    "level": 1
+  },
+  {
+    "english": "accountant",
+    "turkish": "muhasebeci",
+    "level": 1
+  },
+  {
+    "english": "adventure",
+    "turkish": "macera",
+    "level": 1
+  },
+  {
+    "english": "age",
+    "turkish": "yaş",
+    "level": 1
+  },
+  {
+    "english": "agree",
+    "turkish": "katılmak(bir düşünceye)",
+    "level": 1
+  },
+  {
+    "english": "airplane",
+    "turkish": "uçak",
+    "level": 1
+  },
+  {
+    "english": "alone",
+    "turkish": "yalnız",
+    "level": 1
+  },
+  {
+    "english": "angry",
+    "turkish": "kızgın-sinirli",
+    "level": 1
+  },
+  {
+    "english": "animal",
+    "turkish": "hayvan",
+    "level": 1
+  },
+  {
+    "english": "answer",
+    "turkish": "cevap vermek",
+    "level": 1
+  },
+  {
+    "english": "ant",
+    "turkish": "karınca",
+    "level": 1
+  },
+  {
+    "english": "architect",
+    "turkish": "mimar",
+    "level": 1
+  },
+  {
+    "english": "area",
+    "turkish": "bölge",
+    "level": 1
+  },
+  {
+    "english": "argue",
+    "turkish": "tartışmak",
+    "level": 1
+  },
+  {
+    "english": "arm",
+    "turkish": "kol",
+    "level": 1
+  },
+  {
+    "english": "aunt",
+    "turkish": "hala-teyze",
+    "level": 1
+  },
+  {
+    "english": "backgammon",
+    "turkish": "tavla",
+    "level": 1
+  },
+  {
+    "english": "bag",
+    "turkish": "çanta",
+    "level": 1
+  },
+  {
+    "english": "ball",
+    "turkish": "top",
+    "level": 1
+  },
+  {
+    "english": "bath",
+    "turkish": "banyo",
+    "level": 1
+  },
+  {
+    "english": "beautiful",
+    "turkish": "güzel",
+    "level": 1
+  },
+  {
+    "english": "begin",
+    "turkish": "başlamak",
+    "level": 1
+  },
+  {
+    "english": "believe",
+    "turkish": "inanmak",
+    "level": 1
+  },
+  {
+    "english": "bell",
+    "turkish": "zil",
+    "level": 1
+  },
+  {
+    "english": "bill",
+    "turkish": "hesap-fatura",
+    "level": 1
+  },
+  {
+    "english": "bite",
+    "turkish": "ısırmak",
+    "level": 1
+  },
+  {
+    "english": "blanket",
+    "turkish": "battaniye",
+    "level": 1
+  },
+  {
+    "english": "body",
+    "turkish": "vücut",
+    "level": 1
+  },
+  {
+    "english": "bookstore",
+    "turkish": "kitapçı",
+    "level": 1
+  },
+  {
+    "english": "boring",
+    "turkish": "sıkıcı",
+    "level": 1
+  },
+  {
+    "english": "borrow",
+    "turkish": "ödünç almak",
+    "level": 1
+  },
+  {
+    "english": "boss",
+    "turkish": "patron",
+    "level": 1
+  },
+  {
+    "english": "bottle",
+    "turkish": "şişe",
+    "level": 1
+  },
+  {
+    "english": "box",
+    "turkish": "kutu",
+    "level": 1
+  },
+  {
+    "english": "brain",
+    "turkish": "beyin",
+    "level": 1
+  },
+  {
+    "english": "brave",
+    "turkish": "cesur",
+    "level": 1
+  },
+  {
+    "english": "break",
+    "turkish": "kırmak",
+    "level": 1
+  },
+  {
+    "english": "bridge",
+    "turkish": "köprü",
+    "level": 1
+  },
+  {
+    "english": "bring",
+    "turkish": "getirmek",
+    "level": 1
+  },
+  {
+    "english": "brush",
+    "turkish": "fırça",
+    "level": 1
+  },
+  {
+    "english": "build",
+    "turkish": "inşa etmek",
+    "level": 1
+  },
+  {
+    "english": "business",
+    "turkish": "iş",
+    "level": 1
+  },
+  {
+    "english": "busy",
+    "turkish": "meşgul",
+    "level": 1
+  },
+  {
+    "english": "butter",
+    "turkish": "tere yağı",
+    "level": 1
+  },
+  {
+    "english": "cable",
+    "turkish": "kablo",
+    "level": 1
+  },
+  {
+    "english": "calculator",
+    "turkish": "hesap makinası",
+    "level": 1
+  },
+  {
+    "english": "calendar",
+    "turkish": "takvim",
+    "level": 1
+  },
+  {
+    "english": "can",
+    "turkish": "konserve kutusu",
+    "level": 1
+  },
+  {
+    "english": "cap",
+    "turkish": "kasket,başlık",
+    "level": 1
+  },
+  {
+    "english": "capital",
+    "turkish": "başkent",
+    "level": 1
+  },
+  {
+    "english": "carpenter",
+    "turkish": "marangoz",
+    "level": 1
+  },
+  {
+    "english": "carpet",
+    "turkish": "halı",
+    "level": 1
+  },
+  {
+    "english": "carry",
+    "turkish": "taşımak",
+    "level": 1
+  },
+  {
+    "english": "cartoon",
+    "turkish": "çizgi film",
+    "level": 1
+  },
+  {
+    "english": "cash",
+    "turkish": "nakit para",
+    "level": 1
+  },
+  {
+    "english": "catch",
+    "turkish": "yakalamak",
+    "level": 1
+  },
+  {
+    "english": "chair",
+    "turkish": "sandalye",
+    "level": 1
+  },
+  {
+    "english": "chance",
+    "turkish": "şans,imkan",
+    "level": 1
+  },
+  {
+    "english": "changing room",
+    "turkish": "soyunma odası",
+    "level": 1
+  },
+  {
+    "english": "cheap",
+    "turkish": "ucuz",
+    "level": 1
+  },
+  {
+    "english": "cheese",
+    "turkish": "peynir",
+    "level": 1
+  },
+  {
+    "english": "cherry",
+    "turkish": "kiraz",
+    "level": 1
+  },
+  {
+    "english": "chess",
+    "turkish": "satranç",
+    "level": 1
+  },
+  {
+    "english": "chewing gum",
+    "turkish": "sakız",
+    "level": 1
+  },
+  {
+    "english": "chicken",
+    "turkish": "tavuk",
+    "level": 1
+  },
+  {
+    "english": "chin",
+    "turkish": "çene",
+    "level": 1
+  },
+  {
+    "english": "choose",
+    "turkish": "seçmek",
+    "level": 1
+  },
+  {
+    "english": "church",
+    "turkish": "kilise",
+    "level": 1
+  },
+  {
+    "english": "clean",
+    "turkish": "temizlemek",
+    "level": 1
+  },
+  {
+    "english": "clear",
+    "turkish": "açık, net",
+    "level": 1
+  },
+  {
+    "english": "clever",
+    "turkish": "akıllı",
+    "level": 1
+  },
+  {
+    "english": "climb",
+    "turkish": "tırmanmak",
+    "level": 1
+  },
+  {
+    "english": "clock",
+    "turkish": "saat",
+    "level": 1
+  },
+  {
+    "english": "cloth",
+    "turkish": "kıyafet",
+    "level": 1
+  },
+  {
+    "english": "cloud",
+    "turkish": "bulut",
+    "level": 1
+  },
+  {
+    "english": "coat",
+    "turkish": "kaban",
+    "level": 1
+  },
+  {
+    "english": "collect",
+    "turkish": "toplamak",
+    "level": 1
+  },
+  {
+    "english": "company",
+    "turkish": "şirket",
+    "level": 1
+  },
+  {
+    "english": "complete",
+    "turkish": "tamamlamak",
+    "level": 1
+  },
+  {
+    "english": "confused",
+    "turkish": "kafası karışık,allak bullak",
+    "level": 1
+  },
+  {
+    "english": "connect",
+    "turkish": "bağlanmak",
+    "level": 1
+  },
+  {
+    "english": "continue",
+    "turkish": "devam etmek",
+    "level": 1
+  },
+  {
+    "english": "correct",
+    "turkish": "doğru",
+    "level": 1
+  },
+  {
+    "english": "country",
+    "turkish": "ülke",
+    "level": 1
+  },
+  {
+    "english": "cow",
+    "turkish": "inek",
+    "level": 1
+  },
+  {
+    "english": "cry",
+    "turkish": "ağlamak",
+    "level": 1
+  },
+  {
+    "english": "daily",
+    "turkish": "günlük",
+    "level": 1
+  },
+  {
+    "english": "dentist",
+    "turkish": "diş hekimi",
+    "level": 1
+  },
+  {
+    "english": "difficult",
+    "turkish": "zor",
+    "level": 1
+  },
+  {
+    "english": "dirty",
+    "turkish": "kirli",
+    "level": 1
+  },
+  {
+    "english": "divorced",
+    "turkish": "boşanmış",
+    "level": 1
+  },
+  {
+    "english": "draw",
+    "turkish": "çizmek",
+    "level": 1
+  },
+  {
+    "english": "early",
+    "turkish": "erken",
+    "level": 1
+  },
+  {
+    "english": "earn",
+    "turkish": "kazanmak",
+    "level": 1
+  },
+  {
+    "english": "emergency",
+    "turkish": "acil",
+    "level": 1
+  },
+  {
+    "english": "empty",
+    "turkish": "boş",
+    "level": 1
+  },
+  {
+    "english": "engaged",
+    "turkish": "nişanlı",
+    "level": 1
+  },
+  {
+    "english": "engineer",
+    "turkish": "mühendis",
+    "level": 1
+  },
+  {
+    "english": "enough",
+    "turkish": "yeterli",
+    "level": 1
+  },
+  {
+    "english": "eraser",
+    "turkish": "silgi",
+    "level": 1
+  },
+  {
+    "english": "error",
+    "turkish": "hata",
+    "level": 1
+  },
+  {
+    "english": "far",
+    "turkish": "uzak",
+    "level": 1
+  },
+  {
+    "english": "farm",
+    "turkish": "çiftlik",
+    "level": 1
+  },
+  {
+    "english": "fat",
+    "turkish": "şişman",
+    "level": 1
+  },
+  {
+    "english": "finger",
+    "turkish": "parmak",
+    "level": 1
+  },
+  {
+    "english": "fire",
+    "turkish": "ateş-yangın",
+    "level": 1
+  },
+  {
+    "english": "flight",
+    "turkish": "uçuş",
+    "level": 1
+  },
+  {
+    "english": "floor",
+    "turkish": "yer,zemin",
+    "level": 1
+  },
+  {
+    "english": "friendly",
+    "turkish": "arkadaşça",
+    "level": 1
+  },
+  {
+    "english": "fruit",
+    "turkish": "meyve",
+    "level": 1
+  },
+  {
+    "english": "funny",
+    "turkish": "komik",
+    "level": 1
+  },
+  {
+    "english": "garden",
+    "turkish": "bahçe",
+    "level": 1
+  },
+  {
+    "english": "glass",
+    "turkish": "bardak",
+    "level": 1
+  },
+  {
+    "english": "grape",
+    "turkish": "üzüm",
+    "level": 1
+  },
+  {
+    "english": "habit",
+    "turkish": "alışkanlık",
+    "level": 1
+  },
+  {
+    "english": "half",
+    "turkish": "yarım",
+    "level": 1
+  },
+  {
+    "english": "hand",
+    "turkish": "el",
+    "level": 1
+  },
+  {
+    "english": "handsome",
+    "turkish": "yakışıklı",
+    "level": 1
+  },
+  {
+    "english": "hate",
+    "turkish": "nefret etmek",
+    "level": 1
+  },
+  {
+    "english": "health",
+    "turkish": "sağlık",
+    "level": 1
+  },
+  {
+    "english": "hear",
+    "turkish": "duymak",
+    "level": 1
+  },
+  {
+    "english": "heavy",
+    "turkish": "ağır",
+    "level": 1
+  },
+  {
+    "english": "high",
+    "turkish": "yüksek",
+    "level": 1
+  },
+  {
+    "english": "history",
+    "turkish": "tarih",
+    "level": 1
+  },
+  {
+    "english": "horror",
+    "turkish": "korku",
+    "level": 1
+  },
+  {
+    "english": "hungry",
+    "turkish": "aç",
+    "level": 1
+  },
+  {
+    "english": "ill",
+    "turkish": "hasta",
+    "level": 1
+  },
+  {
+    "english": "interested",
+    "turkish": "ilgili",
+    "level": 1
+  },
+  {
+    "english": "job",
+    "turkish": "meslek",
+    "level": 1
+  },
+  {
+    "english": "kill",
+    "turkish": "öldürmek",
+    "level": 1
+  },
+  {
+    "english": "large",
+    "turkish": "geniş",
+    "level": 1
+  },
+  {
+    "english": "laugh",
+    "turkish": "gülmek",
+    "level": 1
+  },
+  {
+    "english": "lawyer",
+    "turkish": "avukat",
+    "level": 1
+  },
+  {
+    "english": "leave",
+    "turkish": "ayrılmak",
+    "level": 1
+  },
+  {
+    "english": "left",
+    "turkish": "sol",
+    "level": 1
+  },
+  {
+    "english": "library",
+    "turkish": "kütüphane",
+    "level": 1
+  },
+  {
+    "english": "light",
+    "turkish": "hafif / ışık",
+    "level": 1
+  },
+  {
+    "english": "lunch",
+    "turkish": "öğle yemeği",
+    "level": 1
+  },
+  {
+    "english": "main",
+    "turkish": "ana-temel",
+    "level": 1
+  },
+  {
+    "english": "manager",
+    "turkish": "yönetici,müdür",
+    "level": 1
+  },
+  {
+    "english": "map",
+    "turkish": "harita",
+    "level": 1
+  },
+  {
+    "english": "meet",
+    "turkish": "buluşmak",
+    "level": 1
+  },
+  {
+    "english": "meeting",
+    "turkish": "toplantı",
+    "level": 1
+  },
+  {
+    "english": "melon",
+    "turkish": "kavun",
+    "level": 1
+  },
+  {
+    "english": "minute",
+    "turkish": "dakika",
+    "level": 1
+  },
+  {
+    "english": "mirror",
+    "turkish": "ayna",
+    "level": 1
+  },
+  {
+    "english": "miss",
+    "turkish": "özlemek",
+    "level": 1
+  },
+  {
+    "english": "need",
+    "turkish": "ihtiyaç",
+    "level": 1
+  },
+  {
+    "english": "neighbour",
+    "turkish": "komşu",
+    "level": 1
+  },
+  {
+    "english": "news",
+    "turkish": "haberler",
+    "level": 1
+  },
+  {
+    "english": "nice",
+    "turkish": "hoş",
+    "level": 1
+  },
+  {
+    "english": "nose",
+    "turkish": "burun",
+    "level": 1
+  },
+  {
+    "english": "nurse",
+    "turkish": "hemşire",
+    "level": 1
+  },
+  {
+    "english": "oven",
+    "turkish": "fırın",
+    "level": 1
+  },
+  {
+    "english": "page",
+    "turkish": "sayfa",
+    "level": 1
+  },
+  {
+    "english": "paint",
+    "turkish": "boyamak",
+    "level": 1
+  },
+  {
+    "english": "parent",
+    "turkish": "ebeveyn",
+    "level": 1
+  },
+  {
+    "english": "pass",
+    "turkish": "geçmek",
+    "level": 1
+  },
+  {
+    "english": "pay",
+    "turkish": "ödemek",
+    "level": 1
+  },
+  {
+    "english": "pet",
+    "turkish": "evcil hayvan",
+    "level": 1
+  },
+  {
+    "english": "place",
+    "turkish": "yer",
+    "level": 1
+  },
+  {
+    "english": "plane",
+    "turkish": "uçak",
+    "level": 1
+  },
+  {
+    "english": "pocket",
+    "turkish": "cep",
+    "level": 1
+  },
+  {
+    "english": "polite",
+    "turkish": "kibar",
+    "level": 1
+  },
+  {
+    "english": "pool",
+    "turkish": "havuz",
+    "level": 1
+  },
+  {
+    "english": "poor",
+    "turkish": "fakir",
+    "level": 1
+  },
+  {
+    "english": "possible",
+    "turkish": "mümkün",
+    "level": 1
+  },
+  {
+    "english": "push",
+    "turkish": "ittirmek",
+    "level": 1
+  },
+  {
+    "english": "quick",
+    "turkish": "hızlı",
+    "level": 1
+  },
+  {
+    "english": "quiet",
+    "turkish": "sessiz",
+    "level": 1
+  },
+  {
+    "english": "railway",
+    "turkish": "tren yolu",
+    "level": 1
+  },
+  {
+    "english": "ready",
+    "turkish": "hazır",
+    "level": 1
+  },
+  {
+    "english": "refrigerator",
+    "turkish": "buzdolabı",
+    "level": 1
+  },
+  {
+    "english": "remember",
+    "turkish": "hatırlamak",
+    "level": 1
+  },
+  {
+    "english": "rent",
+    "turkish": "kiralamak",
+    "level": 1
+  },
+  {
+    "english": "repair",
+    "turkish": "tamir etmek",
+    "level": 1
+  },
+  {
+    "english": "repeat",
+    "turkish": "tekrar etmek",
+    "level": 1
+  },
+  {
+    "english": "restroom",
+    "turkish": "tuvalet",
+    "level": 1
+  },
+  {
+    "english": "return",
+    "turkish": "geri dönmek",
+    "level": 1
+  },
+  {
+    "english": "rice",
+    "turkish": "pirinç",
+    "level": 1
+  },
+  {
+    "english": "rich",
+    "turkish": "zengin",
+    "level": 1
+  },
+  {
+    "english": "ride",
+    "turkish": "binmek",
+    "level": 1
+  },
+  {
+    "english": "right",
+    "turkish": "doğru",
+    "level": 1
+  },
+  {
+    "english": "ring",
+    "turkish": "yüzük-telefonun çalması",
+    "level": 1
+  },
+  {
+    "english": "rise",
+    "turkish": "güneş(doğmak)",
+    "level": 1
+  },
+  {
+    "english": "river",
+    "turkish": "ırmak",
+    "level": 1
+  },
+  {
+    "english": "road",
+    "turkish": "yol",
+    "level": 1
+  },
+  {
+    "english": "roof",
+    "turkish": "çatı",
+    "level": 1
+  },
+  {
+    "english": "room",
+    "turkish": "oda",
+    "level": 1
+  },
+  {
+    "english": "rose",
+    "turkish": "gül",
+    "level": 1
+  },
+  {
+    "english": "salt",
+    "turkish": "tuz",
+    "level": 1
+  },
+  {
+    "english": "same",
+    "turkish": "aynı",
+    "level": 1
+  },
+  {
+    "english": "security",
+    "turkish": "güvenlik",
+    "level": 1
+  },
+  {
+    "english": "sell",
+    "turkish": "satmak",
+    "level": 1
+  },
+  {
+    "english": "serious",
+    "turkish": "ciddi",
+    "level": 1
+  },
+  {
+    "english": "shelf",
+    "turkish": "raf",
+    "level": 1
+  },
+  {
+    "english": "ship",
+    "turkish": "gemi",
+    "level": 1
+  },
+  {
+    "english": "shirt",
+    "turkish": "gömlek",
+    "level": 1
+  },
+  {
+    "english": "shoe",
+    "turkish": "ayakkabı",
+    "level": 1
+  },
+  {
+    "english": "show",
+    "turkish": "göstermek",
+    "level": 1
+  },
+  {
+    "english": "sick",
+    "turkish": "hasta",
+    "level": 1
+  },
+  {
+    "english": "sing",
+    "turkish": "şarkı söylemek",
+    "level": 1
+  },
+  {
+    "english": "single",
+    "turkish": "bekar",
+    "level": 1
+  },
+  {
+    "english": "skirt",
+    "turkish": "etek",
+    "level": 1
+  },
+  {
+    "english": "sky",
+    "turkish": "gökyüzü",
+    "level": 1
+  },
+  {
+    "english": "smile",
+    "turkish": "gülümsemek",
+    "level": 1
+  },
+  {
+    "english": "snow",
+    "turkish": "kar",
+    "level": 1
+  },
+  {
+    "english": "socks",
+    "turkish": "çorap",
+    "level": 1
+  },
+  {
+    "english": "son",
+    "turkish": "erkek kardeş",
+    "level": 1
+  },
+  {
+    "english": "song",
+    "turkish": "şarkı",
+    "level": 1
+  },
+  {
+    "english": "soup",
+    "turkish": "çorba",
+    "level": 1
+  },
+  {
+    "english": "spend",
+    "turkish": "harcamak",
+    "level": 1
+  },
+  {
+    "english": "spoon",
+    "turkish": "kaşık",
+    "level": 1
+  },
+  {
+    "english": "stamp",
+    "turkish": "pul",
+    "level": 1
+  },
+  {
+    "english": "stay",
+    "turkish": "kalmak",
+    "level": 1
+  },
+  {
+    "english": "story",
+    "turkish": "hikaye",
+    "level": 1
+  },
+  {
+    "english": "strawberry",
+    "turkish": "çilek",
+    "level": 1
+  },
+  {
+    "english": "successful",
+    "turkish": "başarılı",
+    "level": 1
+  },
+  {
+    "english": "suit",
+    "turkish": "takım elbise",
+    "level": 1
+  },
+  {
+    "english": "sweet",
+    "turkish": "tatlı",
+    "level": 1
+  },
+  {
+    "english": "talk",
+    "turkish": "konuşmak",
+    "level": 1
+  },
+  {
+    "english": "tall",
+    "turkish": "uzun",
+    "level": 1
+  },
+  {
+    "english": "teach",
+    "turkish": "öğretmek",
+    "level": 1
+  },
+  {
+    "english": "thick",
+    "turkish": "kalın",
+    "level": 1
+  },
+  {
+    "english": "thief",
+    "turkish": "hırsız",
+    "level": 1
+  },
+  {
+    "english": "thin",
+    "turkish": "zayıf",
+    "level": 1
+  },
+  {
+    "english": "think",
+    "turkish": "düşünmek",
+    "level": 1
+  },
+  {
+    "english": "thirsty",
+    "turkish": "susamış",
+    "level": 1
+  },
+  {
+    "english": "ticket",
+    "turkish": "bilet",
+    "level": 1
+  },
+  {
+    "english": "tidy",
+    "turkish": "düzenlemek",
+    "level": 1
+  },
+  {
+    "english": "tired",
+    "turkish": "yorgun",
+    "level": 1
+  },
+  {
+    "english": "toothbrush",
+    "turkish": "diş fırçası",
+    "level": 1
+  },
+  {
+    "english": "toothpaste",
+    "turkish": "diş macunu",
+    "level": 1
+  },
+  {
+    "english": "towel",
+    "turkish": "havlu",
+    "level": 1
+  },
+  {
+    "english": "tower",
+    "turkish": "kule",
+    "level": 1
+  },
+  {
+    "english": "town",
+    "turkish": "kasaba",
+    "level": 1
+  },
+  {
+    "english": "toy",
+    "turkish": "oyuncak",
+    "level": 1
+  },
+  {
+    "english": "trainers",
+    "turkish": "spor ayakkabı",
+    "level": 1
+  },
+  {
+    "english": "travel",
+    "turkish": "seyahat",
+    "level": 1
+  },
+  {
+    "english": "tree",
+    "turkish": "ağaç",
+    "level": 1
+  },
+  {
+    "english": "trousers",
+    "turkish": "pantolon",
+    "level": 1
+  },
+  {
+    "english": "turn",
+    "turkish": "dönmek",
+    "level": 1
+  },
+  {
+    "english": "ugly",
+    "turkish": "çirkin",
+    "level": 1
+  },
+  {
+    "english": "umbrella",
+    "turkish": "şemsiye",
+    "level": 1
+  },
+  {
+    "english": "uncle",
+    "turkish": "amca-dayı",
+    "level": 1
+  },
+  {
+    "english": "understand",
+    "turkish": "anlamak",
+    "level": 1
+  },
+  {
+    "english": "underwear",
+    "turkish": "iç çamaşırı",
+    "level": 1
+  },
+  {
+    "english": "waiter",
+    "turkish": "garson",
+    "level": 1
+  },
+  {
+    "english": "accommodation",
+    "turkish": "konaklama",
+    "level": 2
+  },
+  {
+    "english": "addition",
+    "turkish": "ek,ilave",
+    "level": 2
+  },
+  {
+    "english": "admire",
+    "turkish": "hayran olmak",
+    "level": 2
+  },
+  {
+    "english": "adopt",
+    "turkish": "evlat edinmek",
+    "level": 2
+  },
+  {
+    "english": "adult",
+    "turkish": "yetişkin",
+    "level": 2
+  },
+  {
+    "english": "advertisement",
+    "turkish": "reklam",
+    "level": 2
+  },
+  {
+    "english": "advice",
+    "turkish": "tavsiye",
+    "level": 2
+  },
+  {
+    "english": "affection",
+    "turkish": "şevkat",
+    "level": 2
+  },
+  {
+    "english": "allow",
+    "turkish": "izin vermek",
+    "level": 2
+  },
+  {
+    "english": "amount",
+    "turkish": "miktar",
+    "level": 2
+  },
+  {
+    "english": "annual",
+    "turkish": "yıllık",
+    "level": 2
+  },
+  {
+    "english": "anxious",
+    "turkish": "tedirgin,endişeli",
+    "level": 2
+  },
+  {
+    "english": "apologize",
+    "turkish": "özür dilemek",
+    "level": 2
+  },
+  {
+    "english": "appear",
+    "turkish": "ortaya çıkmak",
+    "level": 2
+  },
+  {
+    "english": "application",
+    "turkish": "başvuru",
+    "level": 2
+  },
+  {
+    "english": "appointment",
+    "turkish": "randevu",
+    "level": 2
+  },
+  {
+    "english": "army",
+    "turkish": "ordu",
+    "level": 2
+  },
+  {
+    "english": "arrange",
+    "turkish": "ayarlamak,düzenlemek",
+    "level": 2
+  },
+  {
+    "english": "art",
+    "turkish": "sanat",
+    "level": 2
+  },
+  {
+    "english": "ashamed",
+    "turkish": "utanmış",
+    "level": 2
+  },
+  {
+    "english": "coin",
+    "turkish": "madeni para",
+    "level": 2
+  },
+  {
+    "english": "comb",
+    "turkish": "tarak",
+    "level": 2
+  },
+  {
+    "english": "common",
+    "turkish": "yaygın",
+    "level": 2
+  },
+  {
+    "english": "communicate",
+    "turkish": "iletişim kurmak",
+    "level": 2
+  },
+  {
+    "english": "compare",
+    "turkish": "kıyaslamak",
+    "level": 2
+  },
+  {
+    "english": "complain",
+    "turkish": "şikayet etmek",
+    "level": 2
+  },
+  {
+    "english": "connected flight",
+    "turkish": "aktarmalı uçuş",
+    "level": 2
+  },
+  {
+    "english": "contact",
+    "turkish": "irtibata geçmek",
+    "level": 2
+  },
+  {
+    "english": "contain",
+    "turkish": "içermek",
+    "level": 2
+  },
+  {
+    "english": "convince",
+    "turkish": "ikna etmek",
+    "level": 2
+  },
+  {
+    "english": "cookies",
+    "turkish": "kurabiye",
+    "level": 2
+  },
+  {
+    "english": "cool",
+    "turkish": "havalı, serin",
+    "level": 2
+  },
+  {
+    "english": "cost",
+    "turkish": "tutar, maliyet",
+    "level": 2
+  },
+  {
+    "english": "cotton",
+    "turkish": "pamuk",
+    "level": 2
+  },
+  {
+    "english": "couch",
+    "turkish": "kanepe",
+    "level": 2
+  },
+  {
+    "english": "cough",
+    "turkish": "öksürmek",
+    "level": 2
+  },
+  {
+    "english": "count",
+    "turkish": "saymak",
+    "level": 2
+  },
+  {
+    "english": "crazy",
+    "turkish": "çılgın",
+    "level": 2
+  },
+  {
+    "english": "crime",
+    "turkish": "suç",
+    "level": 2
+  },
+  {
+    "english": "criticize",
+    "turkish": "eleştiri yapmak",
+    "level": 2
+  },
+  {
+    "english": "curious",
+    "turkish": "meraklı",
+    "level": 2
+  },
+  {
+    "english": "curtain",
+    "turkish": "perde",
+    "level": 2
+  },
+  {
+    "english": "customer",
+    "turkish": "müşteri",
+    "level": 2
+  },
+  {
+    "english": "cut",
+    "turkish": "kesmek",
+    "level": 2
+  },
+  {
+    "english": "cute",
+    "turkish": "şirin",
+    "level": 2
+  },
+  {
+    "english": "damage",
+    "turkish": "zarar vermek",
+    "level": 2
+  },
+  {
+    "english": "dangerous",
+    "turkish": "tehlikeli",
+    "level": 2
+  },
+  {
+    "english": "dead",
+    "turkish": "ölü",
+    "level": 2
+  },
+  {
+    "english": "death",
+    "turkish": "ölüm",
+    "level": 2
+  },
+  {
+    "english": "decide",
+    "turkish": "karar vermek",
+    "level": 2
+  },
+  {
+    "english": "deep",
+    "turkish": "derin",
+    "level": 2
+  },
+  {
+    "english": "defend",
+    "turkish": "savunmak",
+    "level": 2
+  },
+  {
+    "english": "delete",
+    "turkish": "silmek",
+    "level": 2
+  },
+  {
+    "english": "departure gate",
+    "turkish": "çıkış kapısı",
+    "level": 2
+  },
+  {
+    "english": "describe",
+    "turkish": "betimlemek",
+    "level": 2
+  },
+  {
+    "english": "destination",
+    "turkish": "varış",
+    "level": 2
+  },
+  {
+    "english": "destroy",
+    "turkish": "yok etmek",
+    "level": 2
+  },
+  {
+    "english": "detail",
+    "turkish": "detay",
+    "level": 2
+  },
+  {
+    "english": "diamond",
+    "turkish": "elmas",
+    "level": 2
+  },
+  {
+    "english": "die",
+    "turkish": "ölmek",
+    "level": 2
+  },
+  {
+    "english": "direction",
+    "turkish": "yön vermek",
+    "level": 2
+  },
+  {
+    "english": "discover",
+    "turkish": "keşfetmek",
+    "level": 2
+  },
+  {
+    "english": "discuss",
+    "turkish": "tartışmak",
+    "level": 2
+  },
+  {
+    "english": "disturb",
+    "turkish": "rahatsız etmek",
+    "level": 2
+  },
+  {
+    "english": "drawer",
+    "turkish": "çekmece",
+    "level": 2
+  },
+  {
+    "english": "dream",
+    "turkish": "rüya",
+    "level": 2
+  },
+  {
+    "english": "earring",
+    "turkish": "küpe",
+    "level": 2
+  },
+  {
+    "english": "elbow",
+    "turkish": "dirsek",
+    "level": 2
+  },
+  {
+    "english": "elevator",
+    "turkish": "asansör",
+    "level": 2
+  },
+  {
+    "english": "enjoy",
+    "turkish": "tadını çıkarmak",
+    "level": 2
+  },
+  {
+    "english": "entertainment",
+    "turkish": "eğlence",
+    "level": 2
+  },
+  {
+    "english": "equal",
+    "turkish": "eşit",
+    "level": 2
+  },
+  {
+    "english": "escape",
+    "turkish": "çıkış,kaçış",
+    "level": 2
+  },
+  {
+    "english": "excellent",
+    "turkish": "muhteşem",
+    "level": 2
+  },
+  {
+    "english": "exhausted",
+    "turkish": "çok yorgun,tükenmiş",
+    "level": 2
+  },
+  {
+    "english": "expensive",
+    "turkish": "pahalı",
+    "level": 2
+  },
+  {
+    "english": "experience",
+    "turkish": "deneyim",
+    "level": 2
+  },
+  {
+    "english": "explain",
+    "turkish": "açıklamak",
+    "level": 2
+  },
+  {
+    "english": "eyebrow",
+    "turkish": "kaş",
+    "level": 2
+  },
+  {
+    "english": "eyelash",
+    "turkish": "kirpik",
+    "level": 2
+  },
+  {
+    "english": "eyelid",
+    "turkish": "göz kapağı",
+    "level": 2
+  },
+  {
+    "english": "face",
+    "turkish": "yüz",
+    "level": 2
+  },
+  {
+    "english": "factory",
+    "turkish": "fabrika",
+    "level": 2
+  },
+  {
+    "english": "fail",
+    "turkish": "başarısız olmak",
+    "level": 2
+  },
+  {
+    "english": "famous",
+    "turkish": "ünlü",
+    "level": 2
+  },
+  {
+    "english": "fan",
+    "turkish": "hayran",
+    "level": 2
+  },
+  {
+    "english": "feel",
+    "turkish": "hissetmek",
+    "level": 2
+  },
+  {
+    "english": "female",
+    "turkish": "kadın",
+    "level": 2
+  },
+  {
+    "english": "fight",
+    "turkish": "kavga etmek",
+    "level": 2
+  },
+  {
+    "english": "fill",
+    "turkish": "doldurmak",
+    "level": 2
+  },
+  {
+    "english": "first aid",
+    "turkish": "ilk yardım",
+    "level": 2
+  },
+  {
+    "english": "flag",
+    "turkish": "bayrak",
+    "level": 2
+  },
+  {
+    "english": "flat",
+    "turkish": "apartman dairesi",
+    "level": 2
+  },
+  {
+    "english": "flour",
+    "turkish": "un",
+    "level": 2
+  },
+  {
+    "english": "fog",
+    "turkish": "sis",
+    "level": 2
+  },
+  {
+    "english": "follow",
+    "turkish": "takip etmek",
+    "level": 2
+  },
+  {
+    "english": "food",
+    "turkish": "gıda, yiyecek",
+    "level": 2
+  },
+  {
+    "english": "foreign",
+    "turkish": "yabancı",
+    "level": 2
+  },
+  {
+    "english": "formal",
+    "turkish": "resmi",
+    "level": 2
+  },
+  {
+    "english": "fresh",
+    "turkish": "taze",
+    "level": 2
+  },
+  {
+    "english": "front",
+    "turkish": "ön",
+    "level": 2
+  },
+  {
+    "english": "fuel",
+    "turkish": "akaryakıt",
+    "level": 2
+  },
+  {
+    "english": "furniture",
+    "turkish": "mobilya",
+    "level": 2
+  },
+  {
+    "english": "future",
+    "turkish": "gelecek",
+    "level": 2
+  },
+  {
+    "english": "garlic",
+    "turkish": "sarımsak",
+    "level": 2
+  },
+  {
+    "english": "generous",
+    "turkish": "cömert",
+    "level": 2
+  },
+  {
+    "english": "gift",
+    "turkish": "hediye",
+    "level": 2
+  },
+  {
+    "english": "glad",
+    "turkish": "mutlu",
+    "level": 2
+  },
+  {
+    "english": "glove",
+    "turkish": "eldiven",
+    "level": 2
+  },
+  {
+    "english": "graduate",
+    "turkish": "mezun olmak",
+    "level": 2
+  },
+  {
+    "english": "grass",
+    "turkish": "ot, çimen",
+    "level": 2
+  },
+  {
+    "english": "grocer",
+    "turkish": "bakkal,market",
+    "level": 2
+  },
+  {
+    "english": "grow",
+    "turkish": "büyümek,büyütmek",
+    "level": 2
+  },
+  {
+    "english": "guide",
+    "turkish": "rehber",
+    "level": 2
+  },
+  {
+    "english": "hard",
+    "turkish": "sert",
+    "level": 2
+  },
+  {
+    "english": "harmful",
+    "turkish": "zararlı",
+    "level": 2
+  },
+  {
+    "english": "huge",
+    "turkish": "çok büyük",
+    "level": 2
+  },
+  {
+    "english": "idea",
+    "turkish": "fikir",
+    "level": 2
+  },
+  {
+    "english": "impossible",
+    "turkish": "imkansız",
+    "level": 2
+  },
+  {
+    "english": "insect",
+    "turkish": "böcek",
+    "level": 2
+  },
+  {
+    "english": "intelligent",
+    "turkish": "akıllı,zeki",
+    "level": 2
+  },
+  {
+    "english": "introduce",
+    "turkish": "tanıtmak,tanıştırmak",
+    "level": 2
+  },
+  {
+    "english": "invite",
+    "turkish": "davet etmek",
+    "level": 2
+  },
+  {
+    "english": "island",
+    "turkish": "ada",
+    "level": 2
+  },
+  {
+    "english": "jam",
+    "turkish": "reçel",
+    "level": 2
+  },
+  {
+    "english": "jar",
+    "turkish": "kavanoz",
+    "level": 2
+  },
+  {
+    "english": "join",
+    "turkish": "katılmak",
+    "level": 2
+  },
+  {
+    "english": "joke",
+    "turkish": "şaka",
+    "level": 2
+  },
+  {
+    "english": "journey",
+    "turkish": "seyahat",
+    "level": 2
+  },
+  {
+    "english": "juice",
+    "turkish": "meyve suyu",
+    "level": 2
+  },
+  {
+    "english": "jump",
+    "turkish": "zıplamak",
+    "level": 2
+  },
+  {
+    "english": "key",
+    "turkish": "anahtar",
+    "level": 2
+  },
+  {
+    "english": "kick",
+    "turkish": "tekme",
+    "level": 2
+  },
+  {
+    "english": "kind",
+    "turkish": "kibar",
+    "level": 2
+  },
+  {
+    "english": "knee",
+    "turkish": "diz",
+    "level": 2
+  },
+  {
+    "english": "knife",
+    "turkish": "bıçak",
+    "level": 2
+  },
+  {
+    "english": "lake",
+    "turkish": "göl",
+    "level": 2
+  },
+  {
+    "english": "lamb",
+    "turkish": "kuzu",
+    "level": 2
+  },
+  {
+    "english": "leather",
+    "turkish": "deri",
+    "level": 2
+  },
+  {
+    "english": "leg",
+    "turkish": "bacak",
+    "level": 2
+  },
+  {
+    "english": "lift",
+    "turkish": "asansör",
+    "level": 2
+  },
+  {
+    "english": "lip",
+    "turkish": "dudak",
+    "level": 2
+  },
+  {
+    "english": "lock",
+    "turkish": "kilitlemek",
+    "level": 2
+  },
+  {
+    "english": "lose",
+    "turkish": "kaybetmek",
+    "level": 2
+  },
+  {
+    "english": "loud",
+    "turkish": "yüksek ses",
+    "level": 2
+  },
+  {
+    "english": "lovely",
+    "turkish": "sevimli",
+    "level": 2
+  },
+  {
+    "english": "luck",
+    "turkish": "şans",
+    "level": 2
+  },
+  {
+    "english": "magic",
+    "turkish": "sihir",
+    "level": 2
+  },
+  {
+    "english": "mall",
+    "turkish": "alışveriş merkezi",
+    "level": 2
+  },
+  {
+    "english": "meat",
+    "turkish": "et",
+    "level": 2
+  },
+  {
+    "english": "medicine",
+    "turkish": "ilaç",
+    "level": 2
+  },
+  {
+    "english": "mend",
+    "turkish": "tamir etmek",
+    "level": 2
+  },
+  {
+    "english": "mixed",
+    "turkish": "karışık",
+    "level": 2
+  },
+  {
+    "english": "monkey",
+    "turkish": "maymun",
+    "level": 2
+  },
+  {
+    "english": "moon",
+    "turkish": "ay",
+    "level": 2
+  },
+  {
+    "english": "mountain",
+    "turkish": "dağ",
+    "level": 2
+  },
+  {
+    "english": "mouth",
+    "turkish": "ağız",
+    "level": 2
+  },
+  {
+    "english": "nail clippers",
+    "turkish": "tırnak makası",
+    "level": 2
+  },
+  {
+    "english": "naughty",
+    "turkish": "yaramaz",
+    "level": 2
+  },
+  {
+    "english": "nervous",
+    "turkish": "endişeli",
+    "level": 2
+  },
+  {
+    "english": "noise",
+    "turkish": "ses",
+    "level": 2
+  },
+  {
+    "english": "novel",
+    "turkish": "roman",
+    "level": 2
+  },
+  {
+    "english": "ocean",
+    "turkish": "okyanus",
+    "level": 2
+  },
+  {
+    "english": "officer",
+    "turkish": "memur, yetkili",
+    "level": 2
+  },
+  {
+    "english": "overweight",
+    "turkish": "kilolu",
+    "level": 2
+  },
+  {
+    "english": "pick",
+    "turkish": "toplamak",
+    "level": 2
+  },
+  {
+    "english": "plant",
+    "turkish": "bitki",
+    "level": 2
+  },
+  {
+    "english": "plate",
+    "turkish": "tabak",
+    "level": 2
+  },
+  {
+    "english": "poem",
+    "turkish": "şiir",
+    "level": 2
+  },
+  {
+    "english": "point",
+    "turkish": "nokta",
+    "level": 2
+  },
+  {
+    "english": "power",
+    "turkish": "güç",
+    "level": 2
+  },
+  {
+    "english": "pretty",
+    "turkish": "sevimli",
+    "level": 2
+  },
+  {
+    "english": "price",
+    "turkish": "fiyat",
+    "level": 2
+  },
+  {
+    "english": "produce",
+    "turkish": "üretmek",
+    "level": 2
+  },
+  {
+    "english": "queen",
+    "turkish": "kraliçe",
+    "level": 2
+  },
+  {
+    "english": "reach",
+    "turkish": "ulaşmak",
+    "level": 2
+  },
+  {
+    "english": "reason",
+    "turkish": "sebep",
+    "level": 2
+  },
+  {
+    "english": "record",
+    "turkish": "kaydetmek",
+    "level": 2
+  },
+  {
+    "english": "relation",
+    "turkish": "ilişki",
+    "level": 2
+  },
+  {
+    "english": "relax",
+    "turkish": "dinlenmek",
+    "level": 2
+  },
+  {
+    "english": "remote control",
+    "turkish": "kumanda",
+    "level": 2
+  },
+  {
+    "english": "reply",
+    "turkish": "cevaplamak",
+    "level": 2
+  },
+  {
+    "english": "report",
+    "turkish": "rapor etmek",
+    "level": 2
+  },
+  {
+    "english": "retire",
+    "turkish": "emekliye ayrılmak",
+    "level": 2
+  },
+  {
+    "english": "rock",
+    "turkish": "kaya",
+    "level": 2
+  },
+  {
+    "english": "rude",
+    "turkish": "kaba",
+    "level": 2
+  },
+  {
+    "english": "rule",
+    "turkish": "kural",
+    "level": 2
+  },
+  {
+    "english": "safe",
+    "turkish": "güvenli",
+    "level": 2
+  },
+  {
+    "english": "salary",
+    "turkish": "maaş",
+    "level": 2
+  },
+  {
+    "english": "save",
+    "turkish": "kaydetmek",
+    "level": 2
+  },
+  {
+    "english": "scissors",
+    "turkish": "makas",
+    "level": 2
+  },
+  {
+    "english": "seat",
+    "turkish": "koltuk",
+    "level": 2
+  },
+  {
+    "english": "send",
+    "turkish": "göndermek",
+    "level": 2
+  },
+  {
+    "english": "serious",
+    "turkish": "ciddi",
+    "level": 2
+  },
+  {
+    "english": "serve",
+    "turkish": "servis yapmak",
+    "level": 2
+  },
+  {
+    "english": "sharp",
+    "turkish": "keskin,sivri",
+    "level": 2
+  },
+  {
+    "english": "shine",
+    "turkish": "parlamak",
+    "level": 2
+  },
+  {
+    "english": "shoulder",
+    "turkish": "omuz",
+    "level": 2
+  },
+  {
+    "english": "shout",
+    "turkish": "bağırmak",
+    "level": 2
+  },
+  {
+    "english": "sign",
+    "turkish": "imza atmak",
+    "level": 2
+  },
+  {
+    "english": "simple",
+    "turkish": "basit",
+    "level": 2
+  },
+  {
+    "english": "situation",
+    "turkish": "durum",
+    "level": 2
+  },
+  {
+    "english": "ski",
+    "turkish": "kayak",
+    "level": 2
+  },
+  {
+    "english": "snake",
+    "turkish": "yılan",
+    "level": 2
+  },
+  {
+    "english": "soap",
+    "turkish": "sabun",
+    "level": 2
+  },
+  {
+    "english": "society",
+    "turkish": "sosyete",
+    "level": 2
+  },
+  {
+    "english": "soft",
+    "turkish": "yumuşak",
+    "level": 2
+  },
+  {
+    "english": "stand",
+    "turkish": "ayakta durmak",
+    "level": 2
+  },
+  {
+    "english": "stone",
+    "turkish": "taş",
+    "level": 2
+  },
+  {
+    "english": "storm",
+    "turkish": "fırtına",
+    "level": 2
+  },
+  {
+    "english": "subway",
+    "turkish": "metro",
+    "level": 2
+  },
+  {
+    "english": "sure",
+    "turkish": "emin olmak",
+    "level": 2
+  },
+  {
+    "english": "surprised",
+    "turkish": "şaşırmış",
+    "level": 2
+  },
+  {
+    "english": "tailor",
+    "turkish": "terzi",
+    "level": 2
+  },
+  {
+    "english": "team",
+    "turkish": "takım",
+    "level": 2
+  },
+  {
+    "english": "temperature",
+    "turkish": "derece,ısı",
+    "level": 2
+  },
+  {
+    "english": "tent",
+    "turkish": "çadır",
+    "level": 2
+  },
+  {
+    "english": "terrible",
+    "turkish": "berbat",
+    "level": 2
+  },
+  {
+    "english": "throw",
+    "turkish": "atmak,fırlatmak",
+    "level": 2
+  },
+  {
+    "english": "tiger",
+    "turkish": "kaplan",
+    "level": 2
+  },
+  {
+    "english": "tissue",
+    "turkish": "kağıt mendil",
+    "level": 2
+  },
+  {
+    "english": "touch",
+    "turkish": "dokumak",
+    "level": 2
+  },
+  {
+    "english": "transport",
+    "turkish": "nakil, taşıma",
+    "level": 2
+  },
+  {
+    "english": "trouble",
+    "turkish": "dert",
+    "level": 2
+  },
+  {
+    "english": "try",
+    "turkish": "denemek",
+    "level": 2
+  },
+  {
+    "english": "usual",
+    "turkish": "olağan",
+    "level": 2
+  },
+  {
+    "english": "vacation",
+    "turkish": "tatil",
+    "level": 2
+  },
+  {
+    "english": "vacuum cleaner",
+    "turkish": "elektrik süpürgesi",
+    "level": 2
+  },
+  {
+    "english": "vegetable",
+    "turkish": "sebze",
+    "level": 2
+  },
+  {
+    "english": "view",
+    "turkish": "manzara, görünüm",
+    "level": 2
+  },
+  {
+    "english": "voice",
+    "turkish": "ses",
+    "level": 2
+  },
+  {
+    "english": "wall",
+    "turkish": "duvar",
+    "level": 2
+  },
+  {
+    "english": "war",
+    "turkish": "savaş",
+    "level": 2
+  },
+  {
+    "english": "warm",
+    "turkish": "ılık",
+    "level": 2
+  },
+  {
+    "english": "warning",
+    "turkish": "uyarı",
+    "level": 2
+  },
+  {
+    "english": "watermelon",
+    "turkish": "karpuz",
+    "level": 2
+  },
+  {
+    "english": "way",
+    "turkish": "yol",
+    "level": 2
+  },
+  {
+    "english": "weak",
+    "turkish": "güçsüz",
+    "level": 2
+  },
+  {
+    "english": "wear",
+    "turkish": "giyinmek",
+    "level": 2
+  },
+  {
+    "english": "weather",
+    "turkish": "hava",
+    "level": 2
+  },
+  {
+    "english": "week",
+    "turkish": "hafta",
+    "level": 2
+  },
+  {
+    "english": "win",
+    "turkish": "kazanmak",
+    "level": 2
+  },
+  {
+    "english": "wind",
+    "turkish": "rüzgar",
+    "level": 2
+  },
+  {
+    "english": "wine",
+    "turkish": "şarap",
+    "level": 2
+  },
+  {
+    "english": "winter",
+    "turkish": "kış",
+    "level": 2
+  },
+  {
+    "english": "wonderful",
+    "turkish": "harika",
+    "level": 2
+  },
+  {
+    "english": "word",
+    "turkish": "kelime",
+    "level": 2
+  },
+  {
+    "english": "worry",
+    "turkish": "endişe",
+    "level": 2
+  },
+  {
+    "english": "wrong",
+    "turkish": "yanlış",
+    "level": 2
+  },
+  {
+    "english": "zoo",
+    "turkish": "hayvanat bahçesi",
+    "level": 2
+  },
+  {
+    "english": "899",
+    "turkish": "plaka",
+    "level": 3
+  },
+  {
+    "english": "accounts payable",
+    "turkish": "alacak hesapları",
+    "level": 3
+  },
+  {
+    "english": "accounts receivable",
+    "turkish": "borçlular hesabı",
+    "level": 3
+  },
+  {
+    "english": "accuse",
+    "turkish": "suçlamak",
+    "level": 3
+  },
+  {
+    "english": "achievement",
+    "turkish": "başarı",
+    "level": 3
+  },
+  {
+    "english": "adjust",
+    "turkish": "ayarlamak",
+    "level": 3
+  },
+  {
+    "english": "admit",
+    "turkish": "kabul etmek",
+    "level": 3
+  },
+  {
+    "english": "advertise",
+    "turkish": "reklam yapmak",
+    "level": 3
+  },
+  {
+    "english": "affair",
+    "turkish": "ilişki",
+    "level": 3
+  },
+  {
+    "english": "agreement",
+    "turkish": "anlaşma",
+    "level": 3
+  },
+  {
+    "english": "agriculture",
+    "turkish": "tarım",
+    "level": 3
+  },
+  {
+    "english": "aim",
+    "turkish": "hedef",
+    "level": 3
+  },
+  {
+    "english": "aisle",
+    "turkish": "geçit",
+    "level": 3
+  },
+  {
+    "english": "allowance",
+    "turkish": "nafaka",
+    "level": 3
+  },
+  {
+    "english": "ambassador",
+    "turkish": "büyükelçi",
+    "level": 3
+  },
+  {
+    "english": "ancient",
+    "turkish": "antik",
+    "level": 3
+  },
+  {
+    "english": "anticipate",
+    "turkish": "ummak",
+    "level": 3
+  },
+  {
+    "english": "apparent",
+    "turkish": "açık,belli",
+    "level": 3
+  },
+  {
+    "english": "appearance",
+    "turkish": "görünüş",
+    "level": 3
+  },
+  {
+    "english": "appreciate",
+    "turkish": "takdir etmek",
+    "level": 3
+  },
+  {
+    "english": "appropriate",
+    "turkish": "uygun",
+    "level": 3
+  },
+  {
+    "english": "approve",
+    "turkish": "kabul etmek,onaylamak",
+    "level": 3
+  },
+  {
+    "english": "arrest",
+    "turkish": "tutuklamak",
+    "level": 3
+  },
+  {
+    "english": "ashtray",
+    "turkish": "küllük",
+    "level": 3
+  },
+  {
+    "english": "attack",
+    "turkish": "saldırmak",
+    "level": 3
+  },
+  {
+    "english": "attention",
+    "turkish": "dikkat",
+    "level": 3
+  },
+  {
+    "english": "attract",
+    "turkish": "etkilemek",
+    "level": 3
+  },
+  {
+    "english": "audience",
+    "turkish": "seyirci",
+    "level": 3
+  },
+  {
+    "english": "average",
+    "turkish": "ortalama",
+    "level": 3
+  },
+  {
+    "english": "avoid",
+    "turkish": "uzak durmak,kaçınmak",
+    "level": 3
+  },
+  {
+    "english": "baggage claim",
+    "turkish": "bagaj alım",
+    "level": 3
+  },
+  {
+    "english": "balance sheet",
+    "turkish": "bilanço",
+    "level": 3
+  },
+  {
+    "english": "bank account",
+    "turkish": "banka hesabı",
+    "level": 3
+  },
+  {
+    "english": "bankrupt",
+    "turkish": "iflas etmiş",
+    "level": 3
+  },
+  {
+    "english": "beg",
+    "turkish": "yalvarmak",
+    "level": 3
+  },
+  {
+    "english": "beggar",
+    "turkish": "dilenci",
+    "level": 3
+  },
+  {
+    "english": "behave",
+    "turkish": "davranmak",
+    "level": 3
+  },
+  {
+    "english": "belief",
+    "turkish": "inanç",
+    "level": 3
+  },
+  {
+    "english": "belong",
+    "turkish": "ait olmak",
+    "level": 3
+  },
+  {
+    "english": "benefit",
+    "turkish": "fayda",
+    "level": 3
+  },
+  {
+    "english": "blame",
+    "turkish": "suçlamak",
+    "level": 3
+  },
+  {
+    "english": "bleed",
+    "turkish": "kanamak",
+    "level": 3
+  },
+  {
+    "english": "blood",
+    "turkish": "kan",
+    "level": 3
+  },
+  {
+    "english": "board of directors",
+    "turkish": "yönetim kurulu",
+    "level": 3
+  },
+  {
+    "english": "boarding card",
+    "turkish": "biniş kartı",
+    "level": 3
+  },
+  {
+    "english": "boarding time",
+    "turkish": "biniş zamanı",
+    "level": 3
+  },
+  {
+    "english": "bone",
+    "turkish": "kemik",
+    "level": 3
+  },
+  {
+    "english": "brake",
+    "turkish": "fren",
+    "level": 3
+  },
+  {
+    "english": "brand",
+    "turkish": "marka",
+    "level": 3
+  },
+  {
+    "english": "breath",
+    "turkish": "nefes",
+    "level": 3
+  },
+  {
+    "english": "bribe",
+    "turkish": "rüşvet vermek",
+    "level": 3
+  },
+  {
+    "english": "bright",
+    "turkish": "parlak",
+    "level": 3
+  },
+  {
+    "english": "budget",
+    "turkish": "bütçe",
+    "level": 3
+  },
+  {
+    "english": "bulb",
+    "turkish": "ampul",
+    "level": 3
+  },
+  {
+    "english": "burglar",
+    "turkish": "soyguncu",
+    "level": 3
+  },
+  {
+    "english": "calm",
+    "turkish": "sakin",
+    "level": 3
+  },
+  {
+    "english": "cancel",
+    "turkish": "iptal etmek",
+    "level": 3
+  },
+  {
+    "english": "cash flow",
+    "turkish": "para akışı",
+    "level": 3
+  },
+  {
+    "english": "cemetery",
+    "turkish": "mezarlık",
+    "level": 3
+  },
+  {
+    "english": "certain",
+    "turkish": "kesin",
+    "level": 3
+  },
+  {
+    "english": "chamber of commerce",
+    "turkish": "ticaret odası",
+    "level": 3
+  },
+  {
+    "english": "charge",
+    "turkish": "ücretlendirmek",
+    "level": 3
+  },
+  {
+    "english": "charming",
+    "turkish": "çekici",
+    "level": 3
+  },
+  {
+    "english": "Chief Executive",
+    "turkish": "genel müdür",
+    "level": 3
+  },
+  {
+    "english": "circumstance",
+    "turkish": "durum",
+    "level": 3
+  },
+  {
+    "english": "citizen",
+    "turkish": "vatandaş",
+    "level": 3
+  },
+  {
+    "english": "claim",
+    "turkish": "iddia etmek",
+    "level": 3
+  },
+  {
+    "english": "clerk",
+    "turkish": "tezgahtar",
+    "level": 3
+  },
+  {
+    "english": "coast",
+    "turkish": "kıyı",
+    "level": 3
+  },
+  {
+    "english": "development",
+    "turkish": "gelişim",
+    "level": 3
+  },
+  {
+    "english": "disagree",
+    "turkish": "aynı fikirde olmamak",
+    "level": 3
+  },
+  {
+    "english": "disease",
+    "turkish": "hastalık",
+    "level": 3
+  },
+  {
+    "english": "dive",
+    "turkish": "dalmak",
+    "level": 3
+  },
+  {
+    "english": "divide",
+    "turkish": "bölmek",
+    "level": 3
+  },
+  {
+    "english": "domestic flight",
+    "turkish": "iç hat uçuşu",
+    "level": 3
+  },
+  {
+    "english": "drop",
+    "turkish": "düşürmek",
+    "level": 3
+  },
+  {
+    "english": "drug",
+    "turkish": "ilaç,uyuşturucu",
+    "level": 3
+  },
+  {
+    "english": "dry",
+    "turkish": "kuru",
+    "level": 3
+  },
+  {
+    "english": "earthquake",
+    "turkish": "deprem",
+    "level": 3
+  },
+  {
+    "english": "education",
+    "turkish": "eğitim",
+    "level": 3
+  },
+  {
+    "english": "effort",
+    "turkish": "çaba",
+    "level": 3
+  },
+  {
+    "english": "elegant",
+    "turkish": "zarif",
+    "level": 3
+  },
+  {
+    "english": "employer",
+    "turkish": "işveren",
+    "level": 3
+  },
+  {
+    "english": "engine",
+    "turkish": "motor",
+    "level": 3
+  },
+  {
+    "english": "environment",
+    "turkish": "çevre",
+    "level": 3
+  },
+  {
+    "english": "excuse",
+    "turkish": "mazeret",
+    "level": 3
+  },
+  {
+    "english": "expect",
+    "turkish": "ummak",
+    "level": 3
+  },
+  {
+    "english": "explosion",
+    "turkish": "patlama",
+    "level": 3
+  },
+  {
+    "english": "express",
+    "turkish": "ifade etmek",
+    "level": 3
+  },
+  {
+    "english": "fact",
+    "turkish": "gerçek",
+    "level": 3
+  },
+  {
+    "english": "fair",
+    "turkish": "adil",
+    "level": 3
+  },
+  {
+    "english": "fear",
+    "turkish": "korkmak",
+    "level": 3
+  },
+  {
+    "english": "field",
+    "turkish": "tarla",
+    "level": 3
+  },
+  {
+    "english": "fist",
+    "turkish": "yumruk",
+    "level": 3
+  },
+  {
+    "english": "fold",
+    "turkish": "katlamak",
+    "level": 3
+  },
+  {
+    "english": "force",
+    "turkish": "zorlamak",
+    "level": 3
+  },
+  {
+    "english": "forgive",
+    "turkish": "affetmek",
+    "level": 3
+  },
+  {
+    "english": "funeral",
+    "turkish": "cenaze",
+    "level": 3
+  },
+  {
+    "english": "gentle",
+    "turkish": "nazik",
+    "level": 3
+  },
+  {
+    "english": "governor",
+    "turkish": "vali",
+    "level": 3
+  },
+  {
+    "english": "ground",
+    "turkish": "zemin",
+    "level": 3
+  },
+  {
+    "english": "guess",
+    "turkish": "tahmin etmek",
+    "level": 3
+  },
+  {
+    "english": "guilty",
+    "turkish": "suçlu",
+    "level": 3
+  },
+  {
+    "english": "harbour",
+    "turkish": "liman",
+    "level": 3
+  },
+  {
+    "english": "hardware",
+    "turkish": "donanım",
+    "level": 3
+  },
+  {
+    "english": "headlight",
+    "turkish": "far",
+    "level": 3
+  },
+  {
+    "english": "hide",
+    "turkish": "saklamak",
+    "level": 3
+  },
+  {
+    "english": "hit",
+    "turkish": "çarpmak",
+    "level": 3
+  },
+  {
+    "english": "hold",
+    "turkish": "tutmak",
+    "level": 3
+  },
+  {
+    "english": "honest",
+    "turkish": "dürüst",
+    "level": 3
+  },
+  {
+    "english": "hope",
+    "turkish": "ummak",
+    "level": 3
+  },
+  {
+    "english": "host",
+    "turkish": "misafir etmek",
+    "level": 3
+  },
+  {
+    "english": "humour",
+    "turkish": "espri,mizaç",
+    "level": 3
+  },
+  {
+    "english": "hurt",
+    "turkish": "incitmek",
+    "level": 3
+  },
+  {
+    "english": "imagine",
+    "turkish": "hayal etmek",
+    "level": 3
+  },
+  {
+    "english": "import",
+    "turkish": "ithal etmek",
+    "level": 3
+  },
+  {
+    "english": "improve",
+    "turkish": "geliştirmek",
+    "level": 3
+  },
+  {
+    "english": "inform",
+    "turkish": "bilgilendirmek",
+    "level": 3
+  },
+  {
+    "english": "injection",
+    "turkish": "enjektsiyon",
+    "level": 3
+  },
+  {
+    "english": "ink",
+    "turkish": "mürekkep",
+    "level": 3
+  },
+  {
+    "english": "insist",
+    "turkish": "ısrar etmek",
+    "level": 3
+  },
+  {
+    "english": "interview",
+    "turkish": "röportaj",
+    "level": 3
+  },
+  {
+    "english": "invent",
+    "turkish": "icat etmek",
+    "level": 3
+  },
+  {
+    "english": "invest",
+    "turkish": "yaptırım yapmak",
+    "level": 3
+  },
+  {
+    "english": "jealous",
+    "turkish": "kıskanç",
+    "level": 3
+  },
+  {
+    "english": "jewel",
+    "turkish": "mücevher",
+    "level": 3
+  },
+  {
+    "english": "law",
+    "turkish": "yasa",
+    "level": 3
+  },
+  {
+    "english": "leaf",
+    "turkish": "yaprak",
+    "level": 3
+  },
+  {
+    "english": "let",
+    "turkish": "izin vermek",
+    "level": 3
+  },
+  {
+    "english": "lie",
+    "turkish": "yalan söylemek",
+    "level": 3
+  },
+  {
+    "english": "liquid",
+    "turkish": "sıvı",
+    "level": 3
+  },
+  {
+    "english": "load",
+    "turkish": "yüklemek",
+    "level": 3
+  },
+  {
+    "english": "loan",
+    "turkish": "kredi",
+    "level": 3
+  },
+  {
+    "english": "loan agreement",
+    "turkish": "kredi sözleşmesi",
+    "level": 3
+  },
+  {
+    "english": "low",
+    "turkish": "alçak",
+    "level": 3
+  },
+  {
+    "english": "luggage",
+    "turkish": "bagaj",
+    "level": 3
+  },
+  {
+    "english": "magnificent",
+    "turkish": "mükemmel",
+    "level": 3
+  },
+  {
+    "english": "maintain",
+    "turkish": "sürdürmek",
+    "level": 3
+  },
+  {
+    "english": "market share",
+    "turkish": "pazar payı",
+    "level": 3
+  },
+  {
+    "english": "marketing research",
+    "turkish": "pazar araştırması",
+    "level": 3
+  },
+  {
+    "english": "marvellous",
+    "turkish": "harikulade",
+    "level": 3
+  },
+  {
+    "english": "measure",
+    "turkish": "ölçmek",
+    "level": 3
+  },
+  {
+    "english": "member",
+    "turkish": "üye",
+    "level": 3
+  },
+  {
+    "english": "memory",
+    "turkish": "bellek,hafıza",
+    "level": 3
+  },
+  {
+    "english": "military",
+    "turkish": "askeri",
+    "level": 3
+  },
+  {
+    "english": "mind",
+    "turkish": "akıl",
+    "level": 3
+  },
+  {
+    "english": "minister",
+    "turkish": "bakan",
+    "level": 3
+  },
+  {
+    "english": "mosque",
+    "turkish": "cami",
+    "level": 3
+  },
+  {
+    "english": "murder",
+    "turkish": "cinayet işlemek",
+    "level": 3
+  },
+  {
+    "english": "muscle",
+    "turkish": "kas",
+    "level": 3
+  },
+  {
+    "english": "narrow",
+    "turkish": "dar",
+    "level": 3
+  },
+  {
+    "english": "necessary",
+    "turkish": "gerekli",
+    "level": 3
+  },
+  {
+    "english": "neck",
+    "turkish": "boyun",
+    "level": 3
+  },
+  {
+    "english": "offer",
+    "turkish": "teklif etmek",
+    "level": 3
+  },
+  {
+    "english": "official",
+    "turkish": "resmi",
+    "level": 3
+  },
+  {
+    "english": "opinion",
+    "turkish": "fikir",
+    "level": 3
+  },
+  {
+    "english": "order",
+    "turkish": "emretmek",
+    "level": 3
+  },
+  {
+    "english": "out-of-date",
+    "turkish": "tarihi geçmiş",
+    "level": 3
+  },
+  {
+    "english": "owe",
+    "turkish": "borcu olmak",
+    "level": 3
+  },
+  {
+    "english": "own",
+    "turkish": "sahip olmak",
+    "level": 3
+  },
+  {
+    "english": "palace",
+    "turkish": "saray",
+    "level": 3
+  },
+  {
+    "english": "passenger",
+    "turkish": "yolcu",
+    "level": 3
+  },
+  {
+    "english": "pavement",
+    "turkish": "kaldırım",
+    "level": 3
+  },
+  {
+    "english": "peace",
+    "turkish": "barış",
+    "level": 3
+  },
+  {
+    "english": "penalty",
+    "turkish": "ceza",
+    "level": 3
+  },
+  {
+    "english": "perform",
+    "turkish": "yerine getirmek",
+    "level": 3
+  },
+  {
+    "english": "permission",
+    "turkish": "izin",
+    "level": 3
+  },
+  {
+    "english": "pill",
+    "turkish": "hap",
+    "level": 3
+  },
+  {
+    "english": "pleasant",
+    "turkish": "hoş",
+    "level": 3
+  },
+  {
+    "english": "plug",
+    "turkish": "elektrik fişi",
+    "level": 3
+  },
+  {
+    "english": "poison",
+    "turkish": "zehir",
+    "level": 3
+  },
+  {
+    "english": "population",
+    "turkish": "nufus",
+    "level": 3
+  },
+  {
+    "english": "prefer",
+    "turkish": "tercih etmek",
+    "level": 3
+  },
+  {
+    "english": "pregnant",
+    "turkish": "hamile",
+    "level": 3
+  },
+  {
+    "english": "prime minister",
+    "turkish": "başbakan",
+    "level": 3
+  },
+  {
+    "english": "private",
+    "turkish": "özel",
+    "level": 3
+  },
+  {
+    "english": "promise",
+    "turkish": "söz vermek",
+    "level": 3
+  },
+  {
+    "english": "protect",
+    "turkish": "korumak",
+    "level": 3
+  },
+  {
+    "english": "protest",
+    "turkish": "protesto etmek",
+    "level": 3
+  },
+  {
+    "english": "provide",
+    "turkish": "sağlamak",
+    "level": 3
+  },
+  {
+    "english": "public",
+    "turkish": "halka açık",
+    "level": 3
+  },
+  {
+    "english": "punish",
+    "turkish": "cezalandırmak",
+    "level": 3
+  },
+  {
+    "english": "purchase",
+    "turkish": "satın almak",
+    "level": 3
+  },
+  {
+    "english": "purpose",
+    "turkish": "amaç",
+    "level": 3
+  },
+  {
+    "english": "quit",
+    "turkish": "bırakmak",
+    "level": 3
+  },
+  {
+    "english": "rate",
+    "turkish": "oran",
+    "level": 3
+  },
+  {
+    "english": "realize",
+    "turkish": "fark etmek",
+    "level": 3
+  },
+  {
+    "english": "recover",
+    "turkish": "iyileşmek",
+    "level": 3
+  },
+  {
+    "english": "regular",
+    "turkish": "düzenli",
+    "level": 3
+  },
+  {
+    "english": "remind",
+    "turkish": "hatırlatmak",
+    "level": 3
+  },
+  {
+    "english": "remove",
+    "turkish": "ortadan kaldırmak",
+    "level": 3
+  },
+  {
+    "english": "request",
+    "turkish": "rica etmek",
+    "level": 3
+  },
+  {
+    "english": "resign",
+    "turkish": "istifa etmek",
+    "level": 3
+  },
+  {
+    "english": "resolution",
+    "turkish": "karar",
+    "level": 3
+  },
+  {
+    "english": "resource",
+    "turkish": "kaynak",
+    "level": 3
+  },
+  {
+    "english": "respond",
+    "turkish": "yanıt vermek",
+    "level": 3
+  },
+  {
+    "english": "responsible",
+    "turkish": "sorumlu",
+    "level": 3
+  },
+  {
+    "english": "result",
+    "turkish": "sonuç",
+    "level": 3
+  },
+  {
+    "english": "revenue",
+    "turkish": "gelir,ciro",
+    "level": 3
+  },
+  {
+    "english": "root",
+    "turkish": "kök",
+    "level": 3
+  },
+  {
+    "english": "search",
+    "turkish": "aramak",
+    "level": 3
+  },
+  {
+    "english": "seatbelt",
+    "turkish": "emniyet kemeri",
+    "level": 3
+  },
+  {
+    "english": "secret",
+    "turkish": "sır",
+    "level": 3
+  },
+  {
+    "english": "seem",
+    "turkish": "görünmek",
+    "level": 3
+  },
+  {
+    "english": "shoot",
+    "turkish": "vurmak",
+    "level": 3
+  },
+  {
+    "english": "shoplifting",
+    "turkish": "aşırmak",
+    "level": 3
+  },
+  {
+    "english": "shut",
+    "turkish": "kapatmak",
+    "level": 3
+  },
+  {
+    "english": "signature",
+    "turkish": "imza",
+    "level": 3
+  },
+  {
+    "english": "silk",
+    "turkish": "ipek",
+    "level": 3
+  },
+  {
+    "english": "size",
+    "turkish": "beden",
+    "level": 3
+  },
+  {
+    "english": "skill",
+    "turkish": "yetenek",
+    "level": 3
+  },
+  {
+    "english": "skin",
+    "turkish": "ten, deri",
+    "level": 3
+  },
+  {
+    "english": "sneeze",
+    "turkish": "hapşırmak",
+    "level": 3
+  },
+  {
+    "english": "snore",
+    "turkish": "horlamak",
+    "level": 3
+  },
+  {
+    "english": "socket",
+    "turkish": "duy,priz",
+    "level": 3
+  },
+  {
+    "english": "soldier",
+    "turkish": "asker",
+    "level": 3
+  },
+  {
+    "english": "solve",
+    "turkish": "çözmek",
+    "level": 3
+  },
+  {
+    "english": "souvenir",
+    "turkish": "hediyelik eşya",
+    "level": 3
+  },
+  {
+    "english": "space",
+    "turkish": "uzay boşluğu",
+    "level": 3
+  },
+  {
+    "english": "spy",
+    "turkish": "casus",
+    "level": 3
+  },
+  {
+    "english": "staff",
+    "turkish": "görevli personel",
+    "level": 3
+  },
+  {
+    "english": "stage",
+    "turkish": "sahne",
+    "level": 3
+  },
+  {
+    "english": "stare",
+    "turkish": "dik dik bakmak",
+    "level": 3
+  },
+  {
+    "english": "stationery",
+    "turkish": "kırtasiye",
+    "level": 3
+  },
+  {
+    "english": "steal",
+    "turkish": "çalmak",
+    "level": 3
+  },
+  {
+    "english": "steward",
+    "turkish": "hostes",
+    "level": 3
+  },
+  {
+    "english": "stomach",
+    "turkish": "mide",
+    "level": 3
+  },
+  {
+    "english": "strange",
+    "turkish": "garip",
+    "level": 3
+  },
+  {
+    "english": "stranger",
+    "turkish": "yabancı",
+    "level": 3
+  },
+  {
+    "english": "sudden",
+    "turkish": "ani",
+    "level": 3
+  },
+  {
+    "english": "suffer",
+    "turkish": "acı çekmek",
+    "level": 3
+  },
+  {
+    "english": "suggest",
+    "turkish": "önermek",
+    "level": 3
+  },
+  {
+    "english": "support",
+    "turkish": "desteklemek",
+    "level": 3
+  },
+  {
+    "english": "survive",
+    "turkish": "hayatta kalmak",
+    "level": 3
+  },
+  {
+    "english": "tail",
+    "turkish": "kuyruk",
+    "level": 3
+  },
+  {
+    "english": "take off",
+    "turkish": "(uçak)havalanmak",
+    "level": 3
+  },
+  {
+    "english": "target",
+    "turkish": "hedef",
+    "level": 3
+  },
+  {
+    "english": "temporary",
+    "turkish": "geçici",
+    "level": 3
+  },
+  {
+    "english": "tiny",
+    "turkish": "küçücük",
+    "level": 3
+  },
+  {
+    "english": "tool",
+    "turkish": "alet",
+    "level": 3
+  },
+  {
+    "english": "trade",
+    "turkish": "ticaret",
+    "level": 3
+  },
+  {
+    "english": "translate",
+    "turkish": "tercüme etmek",
+    "level": 3
+  },
+  {
+    "english": "trip",
+    "turkish": "gezi",
+    "level": 3
+  },
+  {
+    "english": "truck",
+    "turkish": "kamyon",
+    "level": 3
+  },
+  {
+    "english": "trust",
+    "turkish": "güvenmek",
+    "level": 3
+  },
+  {
+    "english": "tyre",
+    "turkish": "lastik",
+    "level": 3
+  },
+  {
+    "english": "update",
+    "turkish": "güncellemek",
+    "level": 3
+  },
+  {
+    "english": "vote",
+    "turkish": "oy kullanmak",
+    "level": 3
+  },
+  {
+    "english": "wide",
+    "turkish": "geniş",
+    "level": 3
+  },
+  {
+    "english": "wish",
+    "turkish": "dilek",
+    "level": 3
+  },
+  {
+    "english": "4",
+    "turkish": "5",
+    "level": 4
+  },
+  {
+    "english": "abaküs ansiklopedi",
+    "turkish": "baraj cin",
+    "level": 4
+  },
+  {
+    "english": "absürd antarktika",
+    "turkish": "barbar cip",
+    "level": 4
+  },
+  {
+    "english": "adaptasyn anti",
+    "turkish": "barmen çakal",
+    "level": 4
+  },
+  {
+    "english": "adres anten",
+    "turkish": "barkod coğrafya",
+    "level": 4
+  },
+  {
+    "english": "aerobik antibiyotik",
+    "turkish": "barbekü çek",
+    "level": 4
+  },
+  {
+    "english": "Afganistan antilop",
+    "turkish": "barikat dans",
+    "level": 4
+  },
+  {
+    "english": "Afrika antipati",
+    "turkish": "barometre data",
+    "level": 4
+  },
+  {
+    "english": "agresif antifriz",
+    "turkish": "bariyer çikolata",
+    "level": 4
+  },
+  {
+    "english": "akademik antiseptik",
+    "turkish": "baron defans",
+    "level": 4
+  },
+  {
+    "english": "akasya arjantin",
+    "turkish": "bayt dekoratif",
+    "level": 4
+  },
+  {
+    "english": "akne apandisit",
+    "turkish": "batarya dedektif",
+    "level": 4
+  },
+  {
+    "english": "akrobat aroma",
+    "turkish": "biyografi dermatoloji",
+    "level": 4
+  },
+  {
+    "english": "aksan apartman",
+    "turkish": "baypas dedektör",
+    "level": 4
+  },
+  {
+    "english": "aksesuar arap",
+    "turkish": "berber dejenere",
+    "level": 4
+  },
+  {
+    "english": "aktif arena",
+    "turkish": "beyzbol dekorasyon",
+    "level": 4
+  },
+  {
+    "english": "aktivite arkeoloji",
+    "turkish": "birader demagoji",
+    "level": 4
+  },
+  {
+    "english": "aktör artezyen",
+    "turkish": "biyopsi deodorant",
+    "level": 4
+  },
+  {
+    "english": "aktris aristokrasi",
+    "turkish": "bisiklet demografi",
+    "level": 4
+  },
+  {
+    "english": "aktüel artistik",
+    "turkish": "biyalog departman",
+    "level": 4
+  },
+  {
+    "english": "akustik aritmetik",
+    "turkish": "bisküvi demokrasi",
+    "level": 4
+  },
+  {
+    "english": "akvaryum aseton",
+    "turkish": "bluz depo",
+    "level": 4
+  },
+  {
+    "english": "alarm asist",
+    "turkish": "blok depozit",
+    "level": 4
+  },
+  {
+    "english": "albüm asistan",
+    "turkish": "blöf despot",
+    "level": 4
+  },
+  {
+    "english": "alerji astronot",
+    "turkish": "bot dezenfekte",
+    "level": 4
+  },
+  {
+    "english": "alerjik ateist",
+    "turkish": "bot diyalog",
+    "level": 4
+  },
+  {
+    "english": "alfabe atlas",
+    "turkish": "botanik dijital",
+    "level": 4
+  },
+  {
+    "english": "aliminyum atletik",
+    "turkish": "bovling diktatör",
+    "level": 4
+  },
+  {
+    "english": "alkol asit",
+    "turkish": "bobin destinasyon",
+    "level": 4
+  },
+  {
+    "english": "alkolik aspirin",
+    "turkish": "bomba deterjan",
+    "level": 4
+  },
+  {
+    "english": "alkolizm astroloji",
+    "turkish": "boks devalüasyon",
+    "level": 4
+  },
+  {
+    "english": "alrenatif atlet",
+    "turkish": "boykot diksiyon",
+    "level": 4
+  },
+  {
+    "english": "amatör atmosfer",
+    "turkish": "branş dinamit",
+    "level": 4
+  },
+  {
+    "english": "amazon atom",
+    "turkish": "briç dinamo",
+    "level": 4
+  },
+  {
+    "english": "ambargo avusturya",
+    "turkish": "broşür dinazor",
+    "level": 4
+  },
+  {
+    "english": "ambiyans avantaj",
+    "turkish": "bronz diplomosi",
+    "level": 4
+  },
+  {
+    "english": "amblem avrupa",
+    "turkish": "broş diplomat",
+    "level": 4
+  },
+  {
+    "english": "ambulans balkon",
+    "turkish": "buket disipline",
+    "level": 4
+  },
+  {
+    "english": "amin Bağdat",
+    "turkish": "brifing diplomatik",
+    "level": 4
+  },
+  {
+    "english": "amiral bakteri",
+    "turkish": "budapeşte direkt",
+    "level": 4
+  },
+  {
+    "english": "amonyak bakteriyel",
+    "turkish": "budizm direktör",
+    "level": 4
+  },
+  {
+    "english": "anadolu bale",
+    "turkish": "butik diskjokey",
+    "level": 4
+  },
+  {
+    "english": "analitik balans",
+    "turkish": "bungalov disk",
+    "level": 4
+  },
+  {
+    "english": "analiz balerin",
+    "turkish": "buton disket",
+    "level": 4
+  },
+  {
+    "english": "anarşi balistik",
+    "turkish": "bülten disko",
+    "level": 4
+  },
+  {
+    "english": "anatomi balon",
+    "turkish": "büro diyabet",
+    "level": 4
+  },
+  {
+    "english": "anemi bambu",
+    "turkish": "büst diyafram",
+    "level": 4
+  },
+  {
+    "english": "anestezi bandaj",
+    "turkish": "bürokrasi diyagram",
+    "level": 4
+  },
+  {
+    "english": "animasyon banka",
+    "turkish": "caz diyaliz",
+    "level": 4
+  },
+  {
+    "english": "anjin banknot",
+    "turkish": "cd diyet",
+    "level": 4
+  },
+  {
+    "english": "anormal bar",
+    "turkish": "ceket dizanteri",
+    "level": 4
+  },
+  {
+    "english": "eskimo general",
+    "turkish": "jinekoloji kek",
+    "level": 4
+  },
+  {
+    "english": "estetik gol",
+    "turkish": "jokey ketçap",
+    "level": 4
+  },
+  {
+    "english": "Estonya golf",
+    "turkish": "jübile kilo",
+    "level": 4
+  },
+  {
+    "english": "eter gondol",
+    "turkish": "jüri klan",
+    "level": 4
+  },
+  {
+    "english": "euro goril",
+    "turkish": "kabare klarnet",
+    "level": 4
+  },
+  {
+    "english": "faks grafik",
+    "turkish": "kabin klasik",
+    "level": 4
+  },
+  {
+    "english": "faktör gram",
+    "turkish": "kafe kobra",
+    "level": 4
+  },
+  {
+    "english": "fan gramer",
+    "turkish": "kafein kod",
+    "level": 4
+  },
+  {
+    "english": "fanatik granit",
+    "turkish": "kahve kokain",
+    "level": 4
+  },
+  {
+    "english": "fantastik grup",
+    "turkish": "kakao kokpit",
+    "level": 4
+  },
+  {
+    "english": "fantezi hamak",
+    "turkish": "kaktüs kolera",
+    "level": 4
+  },
+  {
+    "english": "faul hamburger",
+    "turkish": "katalog konvoy",
+    "level": 4
+  },
+  {
+    "english": "federal handikap",
+    "turkish": "kalite konsültasyon",
+    "level": 4
+  },
+  {
+    "english": "feribot hangar",
+    "turkish": "kalori konyak",
+    "level": 4
+  },
+  {
+    "english": "festival harem",
+    "turkish": "kalsiyum kooperatif",
+    "level": 4
+  },
+  {
+    "english": "filipinler helikopter",
+    "turkish": "kamera koordinasyon",
+    "level": 4
+  },
+  {
+    "english": "film hentbol",
+    "turkish": "kameraman kopenhag",
+    "level": 4
+  },
+  {
+    "english": "filoloji hijyen",
+    "turkish": "kamp kopya",
+    "level": 4
+  },
+  {
+    "english": "filozof hipnoz",
+    "turkish": "kampüs koridor",
+    "level": 4
+  },
+  {
+    "english": "filtre hobi",
+    "turkish": "Kanada kozmetik",
+    "level": 4
+  },
+  {
+    "english": "final hipodrom",
+    "turkish": "kampanya korner",
+    "level": 4
+  },
+  {
+    "english": "finalist hipotez",
+    "turkish": "kamuflaj kostüm",
+    "level": 4
+  },
+  {
+    "english": "finans hippi",
+    "turkish": "kanal kovboy",
+    "level": 4
+  },
+  {
+    "english": "fiyasko hokey",
+    "turkish": "kanarya kozmik",
+    "level": 4
+  },
+  {
+    "english": "fizibilite hol",
+    "turkish": "kanguru kramp",
+    "level": 4
+  },
+  {
+    "english": "fizik holigan",
+    "turkish": "kanser krater",
+    "level": 4
+  },
+  {
+    "english": "flamingo Irak",
+    "turkish": "kanyon krem",
+    "level": 4
+  },
+  {
+    "english": "flaş homojen",
+    "turkish": "kantin kredi",
+    "level": 4
+  },
+  {
+    "english": "flört ideal",
+    "turkish": "kaos kristal",
+    "level": 4
+  },
+  {
+    "english": "flüt ideoloji",
+    "turkish": "kapasite kriter",
+    "level": 4
+  },
+  {
+    "english": "fonksiyon illegal",
+    "turkish": "kapris kritik",
+    "level": 4
+  },
+  {
+    "english": "formül imaj",
+    "turkish": "kaptan krom",
+    "level": 4
+  },
+  {
+    "english": "forum imitasyon",
+    "turkish": "kapsül kronik",
+    "level": 4
+  },
+  {
+    "english": "fosil ingilizce",
+    "turkish": "karakter lamba",
+    "level": 4
+  },
+  {
+    "english": "fotoğraf inorganik",
+    "turkish": "karamel lazer",
+    "level": 4
+  },
+  {
+    "english": "fotokopi internet",
+    "turkish": "karavan legal",
+    "level": 4
+  },
+  {
+    "english": "fransa İran",
+    "turkish": "karbon lens",
+    "level": 4
+  },
+  {
+    "english": "frekans İrlanda",
+    "turkish": "karbon monoksite leopar",
+    "level": 4
+  },
+  {
+    "english": "futbol ispanya",
+    "turkish": "karbondioksit letonya",
+    "level": 4
+  },
+  {
+    "english": "galaksi İsrail",
+    "turkish": "karbüratör leydi",
+    "level": 4
+  },
+  {
+    "english": "galari İtalya",
+    "turkish": "kardiyoloji leylak",
+    "level": 4
+  },
+  {
+    "english": "gangster iyon",
+    "turkish": "kargo liberal",
+    "level": 4
+  },
+  {
+    "english": "garaj izolasyon",
+    "turkish": "kariyer lider",
+    "level": 4
+  },
+  {
+    "english": "garnizon jakuzi",
+    "turkish": "karnaval lig",
+    "level": 4
+  },
+  {
+    "english": "gaz jel",
+    "turkish": "kart limit",
+    "level": 4
+  },
+  {
+    "english": "gen jenerasyon",
+    "turkish": "karton limon",
+    "level": 4
+  },
+  {
+    "english": "genetik jeneratör",
+    "turkish": "kaset linç",
+    "level": 4
+  },
+  {
+    "english": "geometri jeofizik",
+    "turkish": "katedral link",
+    "level": 4
+  },
+  {
+    "english": "gitar jeoloji",
+    "turkish": "kategori lirik",
+    "level": 4
+  },
+  {
+    "english": "global jet",
+    "turkish": "katolik liste",
+    "level": 4
+  },
+  {
+    "english": "massive",
+    "turkish": "muazzam",
+    "level": 4
+  },
+  {
+    "english": "member of parliament",
+    "turkish": "milletvekili",
+    "level": 4
+  },
+  {
+    "english": "mention",
+    "turkish": "bahsetmek",
+    "level": 4
+  },
+  {
+    "english": "merchandise",
+    "turkish": "mal,eşya",
+    "level": 4
+  },
+  {
+    "english": "metro obez",
+    "turkish": "pasaport problem",
+    "level": 4
+  },
+  {
+    "english": "metropol obezite",
+    "turkish": "patates profesor",
+    "level": 4
+  },
+  {
+    "english": "mikrofon obje",
+    "turkish": "patent profesyonel",
+    "level": 4
+  },
+  {
+    "english": "mikrop objektif",
+    "turkish": "pazar proje",
+    "level": 4
+  },
+  {
+    "english": "mikroskop ofis",
+    "turkish": "pedagoji projektör",
+    "level": 4
+  },
+  {
+    "english": "mikser ofsayt",
+    "turkish": "pedal provokasyon",
+    "level": 4
+  },
+  {
+    "english": "milimetre okey",
+    "turkish": "pelikan provokatör",
+    "level": 4
+  },
+  {
+    "english": "militan oksijen",
+    "turkish": "pakistan protesto",
+    "level": 4
+  },
+  {
+    "english": "milyon omlet",
+    "turkish": "paris protokol",
+    "level": 4
+  },
+  {
+    "english": "minare onkoloji",
+    "turkish": "partikül puding",
+    "level": 4
+  },
+  {
+    "english": "mineral opera",
+    "turkish": "pasif radar",
+    "level": 4
+  },
+  {
+    "english": "minibüs operasyon",
+    "turkish": "pataloji radyoloji",
+    "level": 4
+  },
+  {
+    "english": "minimum optik",
+    "turkish": "pediatri radyum",
+    "level": 4
+  },
+  {
+    "english": "minör optimist",
+    "turkish": "penguen raket",
+    "level": 4
+  },
+  {
+    "english": "minyatür oral",
+    "turkish": "penisilin rakı",
+    "level": 4
+  },
+  {
+    "english": "mistik organ",
+    "turkish": "personel rakun",
+    "level": 4
+  },
+  {
+    "english": "misyon orkestra",
+    "turkish": "piyano ramazan",
+    "level": 4
+  },
+  {
+    "english": "mitoloji organizasyon",
+    "turkish": "perspektif ralli",
+    "level": 4
+  },
+  {
+    "english": "model orkide",
+    "turkish": "pijama rampa",
+    "level": 4
+  },
+  {
+    "english": "modem ortodoks",
+    "turkish": "piknik rapor",
+    "level": 4
+  },
+  {
+    "english": "modern ortopedi",
+    "turkish": "plan realite",
+    "level": 4
+  },
+  {
+    "english": "modernize orijinal",
+    "turkish": "plastik realizm",
+    "level": 4
+  },
+  {
+    "english": "monitör otantik",
+    "turkish": "platform referandum",
+    "level": 4
+  },
+  {
+    "english": "monografi otel",
+    "turkish": "platin referans",
+    "level": 4
+  },
+  {
+    "english": "monoton otobiyografi",
+    "turkish": "plaza refleks",
+    "level": 4
+  },
+  {
+    "english": "montaj otomobil",
+    "turkish": "piramit reform",
+    "level": 4
+  },
+  {
+    "english": "morfin oval",
+    "turkish": "piston rektör",
+    "level": 4
+  },
+  {
+    "english": "Moskova otomatik",
+    "turkish": "pilot reflektör",
+    "level": 4
+  },
+  {
+    "english": "motel ozon",
+    "turkish": "pizza resepsiyon",
+    "level": 4
+  },
+  {
+    "english": "motor panda",
+    "turkish": "poker resital",
+    "level": 4
+  },
+  {
+    "english": "mozaik panel",
+    "turkish": "polemik restoran",
+    "level": 4
+  },
+  {
+    "english": "müslüman panik",
+    "turkish": "polis reyting",
+    "level": 4
+  },
+  {
+    "english": "müze pankreas",
+    "turkish": "politik rezervasyon",
+    "level": 4
+  },
+  {
+    "english": "müzik panorama",
+    "turkish": "pompa rezerv",
+    "level": 4
+  },
+  {
+    "english": "müzikal panter",
+    "turkish": "pop rezidans",
+    "level": 4
+  },
+  {
+    "english": "müzisyen paradoks",
+    "turkish": "porselen risk",
+    "level": 4
+  },
+  {
+    "english": "narkotik paragraf",
+    "turkish": "polyester ritim",
+    "level": 4
+  },
+  {
+    "english": "narkoz paralel",
+    "turkish": "poster robot",
+    "level": 4
+  },
+  {
+    "english": "nation",
+    "turkish": "ulus",
+    "level": 4
+  },
+  {
+    "english": "natürel paranoya",
+    "turkish": "potansiyel roket",
+    "level": 4
+  },
+  {
+    "english": "naylon para•üt",
+    "turkish": "pozitif rol",
+    "level": 4
+  },
+  {
+    "english": "negatif parazit",
+    "turkish": "pozisyon sabotaj",
+    "level": 4
+  },
+  {
+    "english": "neon parfüm",
+    "turkish": "prens sadizim",
+    "level": 4
+  },
+  {
+    "english": "nikel park",
+    "turkish": "prenses sandviç",
+    "level": 4
+  },
+  {
+    "english": "nitrojen parka",
+    "turkish": "prensip safari",
+    "level": 4
+  },
+  {
+    "english": "norm parlamento",
+    "turkish": "pres safran",
+    "level": 4
+  },
+  {
+    "english": "normal parodi",
+    "turkish": "prestij salata",
+    "level": 4
+  },
+  {
+    "english": "nöroloji parsel",
+    "turkish": "prezantasyon sansür",
+    "level": 4
+  },
+  {
+    "english": "nötr parti",
+    "turkish": "printer santigrat",
+    "level": 4
+  },
+  {
+    "english": "nüans partizan",
+    "turkish": "profil sauna",
+    "level": 4
+  },
+  {
+    "english": "nükleer partner",
+    "turkish": "program santimetre",
+    "level": 4
+  },
+  {
+    "english": "objective",
+    "turkish": "amaç,hedef",
+    "level": 4
+  },
+  {
+    "english": "observe",
+    "turkish": "gözlemlemek",
+    "level": 4
+  },
+  {
+    "english": "obvious",
+    "turkish": "açık,bariz, ortada",
+    "level": 4
+  },
+  {
+    "english": "opportunity",
+    "turkish": "fırsat",
+    "level": 4
+  },
+  {
+    "english": "participate",
+    "turkish": "katılmak",
+    "level": 4
+  },
+  {
+    "english": "patience",
+    "turkish": "sabır",
+    "level": 4
+  },
+  {
+    "english": "percentage",
+    "turkish": "yüzde",
+    "level": 4
+  },
+  {
+    "english": "persuade",
+    "turkish": "ikna etmek",
+    "level": 4
+  },
+  {
+    "english": "pollution",
+    "turkish": "kirlilik",
+    "level": 4
+  },
+  {
+    "english": "postpone",
+    "turkish": "ertelemek",
+    "level": 4
+  },
+  {
+    "english": "president",
+    "turkish": "cumhurbaşkanı",
+    "level": 4
+  },
+  {
+    "english": "price control",
+    "turkish": "fiyat kontrolü",
+    "level": 4
+  },
+  {
+    "english": "prison",
+    "turkish": "hapishane",
+    "level": 4
+  },
+  {
+    "english": "process",
+    "turkish": "süreç",
+    "level": 4
+  },
+  {
+    "english": "profit",
+    "turkish": "kar",
+    "level": 4
+  },
+  {
+    "english": "prohibit",
+    "turkish": "yasaklamak",
+    "level": 4
+  },
+  {
+    "english": "promotion",
+    "turkish": "terfi",
+    "level": 4
+  },
+  {
+    "english": "property",
+    "turkish": "mülk",
+    "level": 4
+  },
+  {
+    "english": "proposal",
+    "turkish": "teklif",
+    "level": 4
+  },
+  {
+    "english": "prove",
+    "turkish": "kanıtlamak",
+    "level": 4
+  },
+  {
+    "english": "publicity",
+    "turkish": "tanıtma,reklam",
+    "level": 4
+  },
+  {
+    "english": "punctual",
+    "turkish": "dakik",
+    "level": 4
+  },
+  {
+    "english": "punishment",
+    "turkish": "ceza",
+    "level": 4
+  },
+  {
+    "english": "quantity",
+    "turkish": "miktar",
+    "level": 4
+  },
+  {
+    "english": "quarrel",
+    "turkish": "bozuşmak,çekişmek",
+    "level": 4
+  },
+  {
+    "english": "queue",
+    "turkish": "sıra / kuyruk",
+    "level": 4
+  },
+  {
+    "english": "receipt",
+    "turkish": "fatura",
+    "level": 4
+  },
+  {
+    "english": "receive",
+    "turkish": "almak,kabul etmek",
+    "level": 4
+  },
+  {
+    "english": "recognize",
+    "turkish": "tanımak",
+    "level": 4
+  },
+  {
+    "english": "recommend",
+    "turkish": "tavsiye etmek",
+    "level": 4
+  },
+  {
+    "english": "reduce",
+    "turkish": "azaltmak",
+    "level": 4
+  },
+  {
+    "english": "regret",
+    "turkish": "pişman olmak",
+    "level": 4
+  },
+  {
+    "english": "reject",
+    "turkish": "reddetmek",
+    "level": 4
+  },
+  {
+    "english": "release",
+    "turkish": "serbest bırakmak",
+    "level": 4
+  },
+  {
+    "english": "religion",
+    "turkish": "din",
+    "level": 4
+  },
+  {
+    "english": "reluctant",
+    "turkish": "gönülsüz",
+    "level": 4
+  },
+  {
+    "english": "rely",
+    "turkish": "güvenmek",
+    "level": 4
+  },
+  {
+    "english": "represent",
+    "turkish": "temsil etmek",
+    "level": 4
+  },
+  {
+    "english": "revise",
+    "turkish": "gözden geçirmek",
+    "level": 4
+  },
+  {
+    "english": "rub",
+    "turkish": "ovalamak",
+    "level": 4
+  },
+  {
+    "english": "sand",
+    "turkish": "kum",
+    "level": 4
+  },
+  {
+    "english": "schedule",
+    "turkish": "program",
+    "level": 4
+  },
+  {
+    "english": "science",
+    "turkish": "bilim",
+    "level": 4
+  },
+  {
+    "english": "seek",
+    "turkish": "aramak",
+    "level": 4
+  },
+  {
+    "english": "sense",
+    "turkish": "his",
+    "level": 4
+  },
+  {
+    "english": "shake",
+    "turkish": "sallamak",
+    "level": 4
+  },
+  {
+    "english": "share",
+    "turkish": "paylaşmak,hisse",
+    "level": 4
+  },
+  {
+    "english": "sink",
+    "turkish": "batmak",
+    "level": 4
+  },
+  {
+    "english": "skyscraper",
+    "turkish": "gökdelen",
+    "level": 4
+  },
+  {
+    "english": "steering wheel",
+    "turkish": "direksiyon",
+    "level": 4
+  },
+  {
+    "english": "step tango",
+    "turkish": "test ultrosonik",
+    "level": 4
+  },
+  {
+    "english": "stok taksi",
+    "turkish": "terör Ukrayna",
+    "level": 4
+  },
+  {
+    "english": "stres taktik",
+    "turkish": "terörist ultimatom",
+    "level": 4
+  },
+  {
+    "english": "strike",
+    "turkish": "vurmak,grev",
+    "level": 4
+  },
+  {
+    "english": "substitute",
+    "turkish": "yedek",
+    "level": 4
+  },
+  {
+    "english": "supplier",
+    "turkish": "tedarikçi",
+    "level": 4
+  },
+  {
+    "english": "suppose",
+    "turkish": "farz etmek",
+    "level": 4
+  },
+  {
+    "english": "suşi Tayland",
+    "turkish": "tişört uranyum",
+    "level": 4
+  },
+  {
+    "english": "süper Tayvan",
+    "turkish": "tokyo üniforma",
+    "level": 4
+  },
+  {
+    "english": "sürpriz tanker",
+    "turkish": "tolerans üniversal",
+    "level": 4
+  },
+  {
+    "english": "swear",
+    "turkish": "yemin etmek",
+    "level": 4
+  },
+  {
+    "english": "şampanya tekila",
+    "turkish": "trafik ünite",
+    "level": 4
+  },
+  {
+    "english": "şampiyon teknik",
+    "turkish": "trajedi üniversite",
+    "level": 4
+  },
+  {
+    "english": "şampuan teknoloji",
+    "turkish": "traktör üroloji",
+    "level": 4
+  },
+  {
+    "english": "şarlatan tekstil",
+    "turkish": "transfer ütopik",
+    "level": 4
+  },
+  {
+    "english": "şef telefon",
+    "turkish": "transit ütopya",
+    "level": 4
+  },
+  {
+    "english": "şerif teleskop",
+    "turkish": "transparan vakum",
+    "level": 4
+  },
+  {
+    "english": "take action",
+    "turkish": "harekete geçmek",
+    "level": 4
+  },
+  {
+    "english": "take advantage",
+    "turkish": "istismar etmek",
+    "level": 4
+  },
+  {
+    "english": "task",
+    "turkish": "görev",
+    "level": 4
+  },
+  {
+    "english": "tax",
+    "turkish": "vergi",
+    "level": 4
+  },
+  {
+    "english": "throat",
+    "turkish": "boğaz",
+    "level": 4
+  },
+  {
+    "english": "to book",
+    "turkish": "rezervasyon yapmak",
+    "level": 4
+  },
+  {
+    "english": "torture",
+    "turkish": "işkence etmek",
+    "level": 4
+  },
+  {
+    "english": "trademark",
+    "turkish": "ticari marka",
+    "level": 4
+  },
+  {
+    "english": "transmission",
+    "turkish": "vites",
+    "level": 4
+  },
+  {
+    "english": "transmit",
+    "turkish": "ulaştırmak",
+    "level": 4
+  },
+  {
+    "english": "treat",
+    "turkish": "tedavi etmek,davranış",
+    "level": 4
+  },
+  {
+    "english": "treatment",
+    "turkish": "tedavi",
+    "level": 4
+  },
+  {
+    "english": "trick",
+    "turkish": "kandırmak,hile",
+    "level": 4
+  },
+  {
+    "english": "underline",
+    "turkish": "altını çizmek",
+    "level": 4
+  },
+  {
+    "english": "unemployment",
+    "turkish": "işsizlik",
+    "level": 4
+  },
+  {
+    "english": "urgent",
+    "turkish": "acil",
+    "level": 4
+  },
+  {
+    "english": "Value Added Tax",
+    "turkish": "katma değer vergisi",
+    "level": 4
+  },
+  {
+    "english": "vat",
+    "turkish": "tekne, fıçı",
+    "level": 4
+  },
+  {
+    "english": "violent",
+    "turkish": "şiddetli,sert",
+    "level": 4
+  },
+  {
+    "english": "volunteer",
+    "turkish": "gönüllü",
+    "level": 4
+  },
+  {
+    "english": "warehouse",
+    "turkish": "depo",
+    "level": 4
+  },
+  {
+    "english": "wealthy",
+    "turkish": "varlıklı",
+    "level": 4
+  },
+  {
+    "english": "weapon",
+    "turkish": "silah",
+    "level": 4
+  },
+  {
+    "english": "whistle",
+    "turkish": "ıslık çalmak",
+    "level": 4
+  },
+  {
+    "english": "wholesale",
+    "turkish": "toptan satış",
+    "level": 4
+  },
+  {
+    "english": "witness",
+    "turkish": "görgü tanığı",
+    "level": 4
+  },
+  {
+    "english": "zip",
+    "turkish": "fermuar",
+    "level": 4
+  },
+  {
+    "english": "6",
+    "turkish": "7",
+    "level": 5
+  },
+  {
+    "english": "şoför televizyon",
+    "turkish": "trend vampir",
+    "level": 5
+  },
+  {
+    "english": "şok tenis",
+    "turkish": "tren vanilya",
+    "level": 5
+  },
+  {
+    "english": "şort teori",
+    "turkish": "tur varyant",
+    "level": 5
+  },
+  {
+    "english": "şov teorik",
+    "turkish": "turist vatikan",
+    "level": 5
+  },
+  {
+    "english": "şovmen terapi",
+    "turkish": "turistik vazo",
+    "level": 5
+  },
+  {
+    "english": "şurup termal",
+    "turkish": "turizm vejeteryan",
+    "level": 5
+  },
+  {
+    "english": "şut terminal",
+    "turkish": "tuvalet veranda",
+    "level": 5
+  },
+  {
+    "english": "tablet termometre",
+    "turkish": "Türkmenistan versiyon",
+    "level": 5
+  },
+  {
+    "english": "Tahran termos",
+    "turkish": "tünel vibrasyon",
+    "level": 5
+  }
+]

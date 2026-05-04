@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kelime Öğrenme Oyunu - İngilizce Türkçe</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Auth View -->
+        <div id="auth-view" class="view hidden">
+            <div class="auth-card">
+                <div class="auth-header">
+                    <h1>Giriş Yap</h1>
+                    <p>Öğrenmeye başlamak için bilgilerini gir.</p>
+                </div>
+                <form id="login-form">
+                    <div class="input-group">
+                        <label for="username">Kullanıcı Adı</label>
+                        <input type="text" id="username" placeholder="Hamza" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="password">Parola</label>
+                        <input type="password" id="password" placeholder="••••" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Giriş Yap</button>
+                </form>
+                <div id="login-error" class="error-msg hidden"></div>
+            </div>
+        </div>
+
+        <!-- Main View -->
+        <div id="main-view" class="view hidden">
+            <header>
+                <div class="container header-content">
+                    <div class="user-info">
+                        <span class="username"><i class="fas fa-user"></i> <span id="display-username"></span></span>
+                        <span class="level-badge">Seviye <span id="display-level"></span></span>
+                    </div>
+                    <div class="header-actions">
+                        <button id="settings-btn" class="btn btn-icon" onclick="goToSettings()" title="Ayarlar"><i class="fas fa-cog"></i></button>
+                        <button id="logout-btn" class="btn btn-outline btn-sm">Çıkış Yap</button>
+                    </div>
+                </div>
+            </header>
+
+            <main class="container">
+                <div id="menu-screen" class="screen">
+                    <div class="welcome-section">
+                        <h2>Hoş Geldin, <span id="welcome-name"></span>!</h2>
+                        <p>Hangi modda oynamak istersin?</p>
+                    </div>
+                    <div class="menu-options">
+                        <button class="menu-card" onclick="startGame('en-tr')">
+                            <div class="card-icon"><i class="fas fa-language"></i></div>
+                            <h3>İngilizce / Türkçe</h3>
+                            <p>İngilizce kelimelerin Türkçe anlamlarını bul.</p>
+                        </button>
+                        <button class="menu-card" onclick="startGame('tr-en')">
+                            <div class="card-icon"><i class="fas fa-globe"></i></div>
+                            <h3>Türkçe / İngilizce</h3>
+                            <p>Türkçe kelimelerin İngilizce karşılıklarını bul.</p>
+                        </button>
+                    </div>
+                    <div class="stats-overview">
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <span class="stat-value" id="stats-learned-en">0</span>
+                                <span class="stat-label">İngilizce -> Türkçe</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-value" id="stats-learned-tr">0</span>
+                                <span class="stat-label">Türkçe -> İngilizce</span>
+                            </div>
+                        </div>
+                        <div class="stat-progress">
+                            <div class="progress-info">
+                                <span class="label">İngilizce -> Türkçe</span>
+                                <span id="progress-text-en">0%</span>
+                            </div>
+                            <div class="progress-bar">
+                                <div id="progress-fill-en" class="progress-fill" style="width: 0%"></div>
+                            </div>
+                        </div>
+                        <div class="stat-progress">
+                            <div class="progress-info">
+                                <span class="label">Türkçe -> İngilizce</span>
+                                <span id="progress-text-tr">0%</span>
+                            </div>
+                            <div class="progress-bar">
+                                <div id="progress-fill-tr" class="progress-fill" style="width: 0%"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="settings-screen" class="screen hidden">
+                    <div class="settings-card">
+                        <div class="settings-header">
+                            <button class="back-btn" onclick="goToMenu()"><i class="fas fa-arrow-left"></i> Geri</button>
+                            <h2>Ayarlar</h2>
+                        </div>
+                        <div class="settings-body">
+                            <div class="setting-item">
+                                <div class="setting-info">
+                                    <h3>Tema</h3>
+                                    <p>Görünüm modunu değiştirin.</p>
+                                </div>
+                                <div class="theme-selector">
+                                    <select id="theme-select" onchange="toggleTheme(this.value)">
+                                        <option value="dark">Gece Modu</option>
+                                        <option value="light">Gündüz Modu</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="setting-item">
+                                <div class="setting-info">
+                                    <h3>Çalışma Seviyesi</h3>
+                                    <p>Hangi seviyedeki kelimelerle çalışmak istediğinizi seçin.</p>
+                                </div>
+                                <div class="level-selector-compact">
+                                    <select id="level-select" onchange="updateUserLevel(this.value)">
+                                        <option value="1">Seviye 1 (1-250)</option>
+                                        <option value="2">Seviye 2 (251-500)</option>
+                                        <option value="3">Seviye 3 (501-750)</option>
+                                        <option value="4">Seviye 4 (751-1010)</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="setting-item danger-zone">
+                                <div class="setting-info">
+                                    <h3>İlerlemeyi Sıfırla</h3>
+                                    <p>Tüm öğrenilen kelimeleri temizle ve baştan başla.</p>
+                                </div>
+                                <button class="btn btn-danger btn-sm" onclick="resetProgress()">Sıfırla</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="game-screen" class="screen hidden">
+                    <div class="game-header">
+                        <div class="game-stats">
+                            <div class="score correct">Doğru: <span id="score-correct">0</span></div>
+                            <div class="score wrong">Yanlış: <span id="score-wrong">0</span></div>
+                        </div>
+                        <div class="question-counter">Soru <span id="current-question-num">1</span> / 20</div>
+                        <button class="btn btn-outline btn-sm" onclick="goToMenu()">Oyundan Çık</button>
+                    </div>
+                    
+                    <div id="question-card" class="question-card">
+                        <div class="question-title">
+                            <span id="question-word">...</span> kelimesinin karşılığı nedir?
+                        </div>
+                        <div id="choices-container" class="choices-grid">
+                            <!-- Choices will be injected here -->
+                        </div>
+                    </div>
+
+                    <div id="feedback-container" class="feedback-container hidden">
+                        <div id="feedback-msg" class="feedback-msg"></div>
+                    </div>
+                </div>
+
+                <div id="result-screen" class="screen hidden">
+                    <div class="result-card">
+                        <div class="result-icon"><i class="fas fa-trophy"></i></div>
+                        <h2>Oyun Bitti!</h2>
+                        <div class="result-stats">
+                            <div class="result-stat">
+                                <span class="label">Doğru</span>
+                                <span class="value color-success" id="result-correct">0</span>
+                            </div>
+                            <div class="result-stat">
+                                <span class="label">Yanlış</span>
+                                <span class="value color-danger" id="result-wrong">0</span>
+                            </div>
+                            <div class="result-stat full">
+                                <span class="label">Başarı Yüzdesi</span>
+                                <div class="percentage-circle">
+                                    <svg viewBox="0 0 36 36" class="circular-chart">
+                                        <path class="circle-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                                        <path id="percentage-circle-fill" class="circle" stroke-dasharray="0, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                                        <text x="18" y="20.35" class="percentage" id="result-percentage">0%</text>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="result-actions">
+                            <button class="btn btn-primary" onclick="restartGame()">Yeniden Dene</button>
+                            <button class="btn btn-outline" onclick="goToMenu()">Ana Menü</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="loading-overlay" class="loading-overlay hidden">
+                    <div class="spinner"></div>
+                </div>
+            </main>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
