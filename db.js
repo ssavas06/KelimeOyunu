@@ -1,15 +1,14 @@
-const sqlite3 = require('sqlite3');
-const { open } = require('sqlite');
+const Database = require('better-sqlite3');
 const bcrypt = require('bcryptjs');
 
 async function initDb() {
-    const db = await open({
-        filename: './database.sqlite',
-        driver: sqlite3.Database
-    });
+    const db = new Database('./database.sqlite');
+    
+    // Performance optimization
+    db.pragma('journal_mode = WAL');
 
     // Users table
-    await db.exec(`
+    db.prepare(`
         CREATE TABLE IF NOT EXISTS users (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             username TEXT UNIQUE,
@@ -17,20 +16,20 @@ async function initDb() {
             level INTEGER DEFAULT 1,
             created_at DATETIME DEFAULT CURRENT_TIMESTAMP
         )
-    `);
+    `).run();
 
     // Words table
-    await db.exec(`
+    db.prepare(`
         CREATE TABLE IF NOT EXISTS words (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             english TEXT,
             turkish TEXT,
             level INTEGER
         )
-    `);
+    `).run();
 
     // User progress table
-    await db.exec(`
+    db.prepare(`
         CREATE TABLE IF NOT EXISTS user_words (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             user_id INTEGER,
@@ -42,17 +41,31 @@ async function initDb() {
             FOREIGN KEY (word_id) REFERENCES words(id),
             UNIQUE(user_id, word_id, mode)
         )
-    `);
+    `).run();
 
     // Create default user if not exists
-    const defaultUser = await db.get('SELECT * FROM users WHERE username = ?', ['Hamza']);
+    const defaultUser = db.prepare('SELECT * FROM users WHERE username = ?').get('Hamza');
     if (!defaultUser) {
         const hashedPassword = await bcrypt.hash('1234', 10);
-        await db.run('INSERT INTO users (username, password, level) VALUES (?, ?, ?)', ['Hamza', hashedPassword, 1]);
+        db.prepare('INSERT INTO users (username, password, level) VALUES (?, ?, ?)').run('Hamza', hashedPassword, 1);
         console.log('Default user "Hamza" created.');
     }
 
-    return db;
+    // Add some helper methods to mimic the 'sqlite' package API used in server.js
+    return {
+        get: (sql, params) => Promise.resolve(db.prepare(sql).get(...(params || []))),
+        all: (sql, params) => Promise.resolve(db.prepare(sql).all(...(params || []))),
+        run: (sql, params) => Promise.resolve(db.prepare(sql).run(...(params || []))),
+        prepare: (sql) => {
+            const stmt = db.prepare(sql);
+            return Promise.resolve({
+                run: (...params) => Promise.resolve(stmt.run(...params)),
+                finalize: () => Promise.resolve()
+            });
+        },
+        exec: (sql) => Promise.resolve(db.exec(sql))
+    };
 }
 
 module.exports = { initDb };
+
